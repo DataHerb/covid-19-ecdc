@@ -1,0 +1,51 @@
+name: COVID-19 Data by ECDC
+description: A Copy of the ECDC COVID-19 dataset
+contributors:
+- name: 'DataHerb'
+  github: 'DataHerb'
+data:
+- name: ECDC COVID-19 data in JSON format
+  description: ECDC COVID-19 data in JSON format
+  path: dataset/ecdc_covid19.json
+  format: json
+  size: 1.9M
+  updated_at: ''
+  fields:
+  - name: date
+    description: 'Data in string format for display purpose'
+  - name: authority
+    description: 'name of the country or territory'
+  - name: alpha_3
+    description: 'alpha 3 code of the country of the territory'
+  - name: alpha_2
+    description: 'alpha 2 code of the country or territory'
+  - name: population_2018
+    description: 'population of the country or territory in 2018'
+  - name: cases
+    description: 'number of new confirmed cases'
+  - name: deaths
+    description: 'number of new deaths'
+- name: ECDC COVID-19 data in CSV format
+  description: ECDC COVID-19 data in CSV format
+  path: dataset/ecdc_covid19.csv
+  format: csv
+  size: 484K
+  updated_at: ''
+  fields:
+  - name: date
+    description: 'Data in string format for display purpose'
+  - name: authority
+    description: 'name of the country or territory'
+  - name: alpha_3
+    description: 'alpha 3 code of the country of the territory'
+  - name: alpha_2
+    description: 'alpha 2 code of the country or territory'
+  - name: population_2018
+    description: 'population of the country or territory in 2018'
+  - name: cases
+    description: 'number of new confirmed cases'
+  - name: deaths
+    description: 'number of new deaths'
+references:
+- name: 'ECDC: Download today’s data on the geographic distribution of COVID-19 cases worldwide'
+  link: 'https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide'

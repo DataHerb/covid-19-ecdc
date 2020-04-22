@@ -5483,7 +5483,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Indonesia,IDN,ID,267663435.0,0,0
 2020-01-01,Indonesia,IDN,ID,267663435.0,0,0
 2019-12-31,Indonesia,IDN,ID,267663435.0,0,0
-2020-04-22,Iran,IRN,IR,81800269.0,1297,1082
+2020-04-22,Iran,IRN,IR,81800269.0,1297,88
 2020-04-21,Iran,IRN,IR,81800269.0,1294,91
 2020-04-20,Iran,IRN,IR,81800269.0,1343,87
 2020-04-19,Iran,IRN,IR,81800269.0,1374,73
@@ -9740,7 +9740,6 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Rwanda,RWA,RW,12301939.0,0,0
 2020-03-16,Rwanda,RWA,RW,12301939.0,4,0
 2020-03-15,Rwanda,RWA,RW,12301939.0,1,0
-2020-04-22,Saint_Helena,,SH,,3,0
 2020-04-22,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-04-21,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-04-20,Saint_Kitts_and_Nevis,KNA,KN,52441.0,1,0
@@ -9838,7 +9837,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-26,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-03-25,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-03-13,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,1,0
-2020-04-22,San_Marino,SMR,SM,33785.0,4304,1
+2020-04-22,San_Marino,SMR,SM,33785.0,14,1
 2020-04-21,San_Marino,SMR,SM,33785.0,1,0
 2020-04-20,San_Marino,SMR,SM,33785.0,6,0
 2020-04-19,San_Marino,SMR,SM,33785.0,20,0

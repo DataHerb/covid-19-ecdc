@@ -1,4 +1,5 @@
 date,authority,alpha_3,alpha_2,population_2018,cases,deaths
+2020-06-16,Afghanistan,AFG,AF,37172386.0,761,7
 2020-06-15,Afghanistan,AFG,AF,37172386.0,664,20
 2020-06-14,Afghanistan,AFG,AF,37172386.0,556,5
 2020-06-13,Afghanistan,AFG,AF,37172386.0,656,20
@@ -157,6 +158,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Afghanistan,AFG,AF,37172386.0,0,0
 2020-01-01,Afghanistan,AFG,AF,37172386.0,0,0
 2019-12-31,Afghanistan,AFG,AF,37172386.0,0,0
+2020-06-16,Albania,ALB,AL,2866376.0,69,0
 2020-06-15,Albania,ALB,AL,2866376.0,57,0
 2020-06-14,Albania,ALB,AL,2866376.0,48,0
 2020-06-13,Albania,ALB,AL,2866376.0,31,1
@@ -256,6 +258,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-11,Albania,ALB,AL,2866376.0,4,0
 2020-03-10,Albania,ALB,AL,2866376.0,4,0
 2020-03-09,Albania,ALB,AL,2866376.0,2,0
+2020-06-16,Algeria,DZA,DZ,42228429.0,112,10
 2020-06-15,Algeria,DZA,DZ,42228429.0,109,7
 2020-06-14,Algeria,DZA,DZ,42228429.0,112,9
 2020-06-13,Algeria,DZA,DZ,42228429.0,109,10
@@ -419,6 +422,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Algeria,DZA,DZ,42228429.0,0,0
 2020-01-01,Algeria,DZA,DZ,42228429.0,0,0
 2019-12-31,Algeria,DZA,DZ,42228429.0,0,0
+2020-06-16,Andorra,AND,AD,77006.0,0,0
 2020-06-15,Andorra,AND,AD,77006.0,0,0
 2020-06-14,Andorra,AND,AD,77006.0,0,0
 2020-06-13,Andorra,AND,AD,77006.0,1,0
@@ -513,6 +517,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Andorra,AND,AD,77006.0,3,0
 2020-03-14,Andorra,AND,AD,77006.0,1,0
 2020-03-03,Andorra,AND,AD,77006.0,1,0
+2020-06-16,Angola,AGO,AO,30809762.0,2,0
 2020-06-15,Angola,AGO,AO,30809762.0,2,0
 2020-06-14,Angola,AGO,AO,30809762.0,8,1
 2020-06-13,Angola,AGO,AO,30809762.0,12,0
@@ -599,6 +604,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Angola,AGO,AO,30809762.0,0,0
 2020-03-23,Angola,AGO,AO,30809762.0,0,0
 2020-03-22,Angola,AGO,AO,30809762.0,2,0
+2020-06-16,Anguilla,,AI,,0,0
 2020-06-15,Anguilla,,AI,,0,0
 2020-06-14,Anguilla,,AI,,0,0
 2020-06-13,Anguilla,,AI,,0,0
@@ -680,6 +686,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-29,Anguilla,,AI,,0,0
 2020-03-28,Anguilla,,AI,,0,0
 2020-03-27,Anguilla,,AI,,2,0
+2020-06-16,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
 2020-06-15,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
 2020-06-14,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
 2020-06-13,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
@@ -768,6 +775,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
 2020-03-21,Antigua_and_Barbuda,ATG,AG,96286.0,0,0
 2020-03-15,Antigua_and_Barbuda,ATG,AG,96286.0,1,0
+2020-06-16,Argentina,ARG,AR,44494502.0,1208,21
 2020-06-15,Argentina,ARG,AR,44494502.0,1282,18
 2020-06-14,Argentina,ARG,AR,44494502.0,1531,30
 2020-06-13,Argentina,ARG,AR,44494502.0,1391,20
@@ -869,6 +877,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-07,Argentina,ARG,AR,44494502.0,6,0
 2020-03-06,Argentina,ARG,AR,44494502.0,1,0
 2020-03-04,Argentina,ARG,AR,44494502.0,1,0
+2020-06-16,Armenia,ARM,AM,2951776.0,397,16
 2020-06-15,Armenia,ARM,AM,2951776.0,663,5
 2020-06-14,Armenia,ARM,AM,2951776.0,723,6
 2020-06-13,Armenia,ARM,AM,2951776.0,612,13
@@ -1028,6 +1037,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Armenia,ARM,AM,2951776.0,0,0
 2020-01-01,Armenia,ARM,AM,2951776.0,0,0
 2019-12-31,Armenia,ARM,AM,2951776.0,0,0
+2020-06-16,Aruba,ABW,AW,105845.0,0,0
 2020-06-15,Aruba,ABW,AW,105845.0,0,0
 2020-06-14,Aruba,ABW,AW,105845.0,0,0
 2020-06-13,Aruba,ABW,AW,105845.0,0,0
@@ -1113,6 +1123,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Aruba,ABW,AW,105845.0,8,0
 2020-03-20,Aruba,ABW,AW,105845.0,2,0
 2020-03-13,Aruba,ABW,AW,105845.0,2,0
+2020-06-16,Australia,AUS,AU,24992369.0,15,0
 2020-06-15,Australia,AUS,AU,24992369.0,18,0
 2020-06-14,Australia,AUS,AU,24992369.0,12,0
 2020-06-13,Australia,AUS,AU,24992369.0,5,0
@@ -1281,6 +1292,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Australia,AUS,AU,24992369.0,0,0
 2020-01-01,Australia,AUS,AU,24992369.0,0,0
 2019-12-31,Australia,AUS,AU,24992369.0,0,0
+2020-06-16,Austria,AUT,AT,8847037.0,27,1
 2020-06-15,Austria,AUT,AT,8847037.0,24,0
 2020-06-14,Austria,AUT,AT,8847037.0,20,2
 2020-06-13,Austria,AUT,AT,8847037.0,30,1
@@ -1449,6 +1461,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Austria,AUT,AT,8847037.0,0,0
 2020-01-01,Austria,AUT,AT,8847037.0,0,0
 2019-12-31,Austria,AUT,AT,8847037.0,0,0
+2020-06-16,Azerbaijan,AZE,AZ,9942334.0,367,3
 2020-06-15,Azerbaijan,AZE,AZ,9942334.0,387,4
 2020-06-14,Azerbaijan,AZE,AZ,9942334.0,352,2
 2020-06-13,Azerbaijan,AZE,AZ,9942334.0,336,5
@@ -1610,6 +1623,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Azerbaijan,AZE,AZ,9942334.0,0,0
 2020-01-01,Azerbaijan,AZE,AZ,9942334.0,0,0
 2019-12-31,Azerbaijan,AZE,AZ,9942334.0,0,0
+2020-06-16,Bahamas,BHS,BS,385640.0,1,0
 2020-06-15,Bahamas,BHS,BS,385640.0,0,0
 2020-06-14,Bahamas,BHS,BS,385640.0,0,0
 2020-06-13,Bahamas,BHS,BS,385640.0,0,0
@@ -1700,6 +1714,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-20,Bahamas,BHS,BS,385640.0,2,0
 2020-03-17,Bahamas,BHS,BS,385640.0,0,0
 2020-03-16,Bahamas,BHS,BS,385640.0,1,0
+2020-06-16,Bahrain,BHR,BH,1569439.0,786,3
 2020-06-15,Bahrain,BHR,BH,1569439.0,0,4
 2020-06-14,Bahrain,BHR,BH,1569439.0,514,3
 2020-06-13,Bahrain,BHR,BH,1569439.0,444,0
@@ -1867,6 +1882,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Bahrain,BHR,BH,1569439.0,0,0
 2020-01-01,Bahrain,BHR,BH,1569439.0,0,0
 2019-12-31,Bahrain,BHR,BH,1569439.0,0,0
+2020-06-16,Bangladesh,BGD,BD,161356039.0,3099,38
 2020-06-15,Bangladesh,BGD,BD,161356039.0,3141,32
 2020-06-14,Bangladesh,BGD,BD,161356039.0,2856,44
 2020-06-13,Bangladesh,BGD,BD,161356039.0,3471,46
@@ -1960,6 +1976,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Bangladesh,BGD,BD,161356039.0,2,0
 2020-03-15,Bangladesh,BGD,BD,161356039.0,0,0
 2020-03-09,Bangladesh,BGD,BD,161356039.0,3,0
+2020-06-16,Barbados,BRB,BB,286641.0,1,0
 2020-06-15,Barbados,BRB,BB,286641.0,0,0
 2020-06-14,Barbados,BRB,BB,286641.0,0,0
 2020-06-13,Barbados,BRB,BB,286641.0,0,0
@@ -2050,6 +2067,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-20,Barbados,BRB,BB,286641.0,1,0
 2020-03-19,Barbados,BRB,BB,286641.0,0,0
 2020-03-18,Barbados,BRB,BB,286641.0,1,0
+2020-06-16,Belarus,BLR,BY,9485386.0,707,4
 2020-06-15,Belarus,BLR,BY,9485386.0,732,5
 2020-06-14,Belarus,BLR,BY,9485386.0,721,5
 2020-06-13,Belarus,BLR,BY,9485386.0,704,5
@@ -2210,6 +2228,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Belarus,BLR,BY,9485386.0,0,0
 2020-01-01,Belarus,BLR,BY,9485386.0,0,0
 2019-12-31,Belarus,BLR,BY,9485386.0,0,0
+2020-06-16,Belgium,BEL,BE,11422068.0,71,6
 2020-06-15,Belgium,BEL,BE,11422068.0,111,5
 2020-06-14,Belgium,BEL,BE,11422068.0,99,4
 2020-06-13,Belgium,BEL,BE,11422068.0,108,10
@@ -2378,6 +2397,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Belgium,BEL,BE,11422068.0,0,0
 2020-01-01,Belgium,BEL,BE,11422068.0,0,0
 2019-12-31,Belgium,BEL,BE,11422068.0,0,0
+2020-06-16,Belize,BLZ,BZ,383071.0,0,0
 2020-06-15,Belize,BLZ,BZ,383071.0,1,0
 2020-06-14,Belize,BLZ,BZ,383071.0,0,0
 2020-06-13,Belize,BLZ,BZ,383071.0,0,0
@@ -2462,6 +2482,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-26,Belize,BLZ,BZ,383071.0,1,0
 2020-03-25,Belize,BLZ,BZ,383071.0,0,0
 2020-03-24,Belize,BLZ,BZ,383071.0,1,0
+2020-06-16,Benin,BEN,BJ,11485048.0,13,2
 2020-06-15,Benin,BEN,BJ,11485048.0,58,1
 2020-06-14,Benin,BEN,BJ,11485048.0,24,1
 2020-06-13,Benin,BEN,BJ,11485048.0,83,1
@@ -2553,6 +2574,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-19,Benin,BEN,BJ,11485048.0,0,0
 2020-03-18,Benin,BEN,BJ,11485048.0,0,0
 2020-03-17,Benin,BEN,BJ,11485048.0,1,0
+2020-06-16,Bermuda,BMU,BM,63968.0,0,0
 2020-06-15,Bermuda,BMU,BM,63968.0,0,0
 2020-06-14,Bermuda,BMU,BM,63968.0,2,0
 2020-06-13,Bermuda,BMU,BM,63968.0,1,0
@@ -2641,6 +2663,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Bermuda,BMU,BM,63968.0,0,0
 2020-03-21,Bermuda,BMU,BM,63968.0,0,0
 2020-03-20,Bermuda,BMU,BM,63968.0,2,0
+2020-06-16,Bhutan,BTN,BT,754394.0,1,0
 2020-06-15,Bhutan,BTN,BT,754394.0,0,0
 2020-06-14,Bhutan,BTN,BT,754394.0,4,0
 2020-06-13,Bhutan,BTN,BT,754394.0,0,0
@@ -2735,6 +2758,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Bhutan,BTN,BT,754394.0,0,0
 2020-03-13,Bhutan,BTN,BT,754394.0,0,0
 2020-03-06,Bhutan,BTN,BT,754394.0,1,0
+2020-06-16,Bolivia,BOL,BO,11353142.0,614,21
 2020-06-15,Bolivia,BOL,BO,11353142.0,617,26
 2020-06-14,Bolivia,BOL,BO,11353142.0,913,26
 2020-06-13,Bolivia,BOL,BO,11353142.0,764,26
@@ -2830,6 +2854,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-14,Bolivia,BOL,BO,11353142.0,7,0
 2020-03-13,Bolivia,BOL,BO,11353142.0,1,0
 2020-03-12,Bolivia,BOL,BO,11353142.0,2,0
+2020-06-16,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
 2020-06-15,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
 2020-06-14,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
 2020-06-13,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
@@ -2905,6 +2930,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-04,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
 2020-04-03,"Bonaire, Saint Eustatius and Saba",,BQ,,0,0
 2020-04-02,"Bonaire, Saint Eustatius and Saba",,BQ,,2,0
+2020-06-16,Bosnia_and_Herzegovina,BIH,BA,3323929.0,0,0
 2020-06-15,Bosnia_and_Herzegovina,BIH,BA,3323929.0,0,0
 2020-06-14,Bosnia_and_Herzegovina,BIH,BA,3323929.0,0,0
 2020-06-13,Bosnia_and_Herzegovina,BIH,BA,3323929.0,62,3
@@ -3000,6 +3026,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-13,Bosnia_and_Herzegovina,BIH,BA,3323929.0,0,0
 2020-03-12,Bosnia_and_Herzegovina,BIH,BA,3323929.0,1,0
 2020-03-06,Bosnia_and_Herzegovina,BIH,BA,3323929.0,2,0
+2020-06-16,Botswana,BWA,BW,2254126.0,0,0
 2020-06-15,Botswana,BWA,BW,2254126.0,0,0
 2020-06-14,Botswana,BWA,BW,2254126.0,0,0
 2020-06-13,Botswana,BWA,BW,2254126.0,12,0
@@ -3076,6 +3103,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-03,Botswana,BWA,BW,2254126.0,0,0
 2020-04-02,Botswana,BWA,BW,2254126.0,1,1
 2020-04-01,Botswana,BWA,BW,2254126.0,3,0
+2020-06-16,Brazil,BRA,BR,209469333.0,20647,627
 2020-06-15,Brazil,BRA,BR,209469333.0,17110,612
 2020-06-14,Brazil,BRA,BR,209469333.0,21704,892
 2020-06-13,Brazil,BRA,BR,209469333.0,25982,909
@@ -3244,6 +3272,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Brazil,BRA,BR,209469333.0,0,0
 2020-01-01,Brazil,BRA,BR,209469333.0,0,0
 2019-12-31,Brazil,BRA,BR,209469333.0,0,0
+2020-06-16,British_Virgin_Islands,VGB,VG,29802.0,0,0
 2020-06-15,British_Virgin_Islands,VGB,VG,29802.0,0,0
 2020-06-14,British_Virgin_Islands,VGB,VG,29802.0,0,0
 2020-06-13,British_Virgin_Islands,VGB,VG,29802.0,0,0
@@ -3325,6 +3354,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-29,British_Virgin_Islands,VGB,VG,29802.0,0,0
 2020-03-28,British_Virgin_Islands,VGB,VG,29802.0,0,0
 2020-03-27,British_Virgin_Islands,VGB,VG,29802.0,2,0
+2020-06-16,Brunei_Darussalam,BRN,BN,428962.0,0,0
 2020-06-15,Brunei_Darussalam,BRN,BN,428962.0,0,0
 2020-06-14,Brunei_Darussalam,BRN,BN,428962.0,0,0
 2020-06-13,Brunei_Darussalam,BRN,BN,428962.0,0,0
@@ -3422,6 +3452,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-13,Brunei_Darussalam,BRN,BN,428962.0,14,0
 2020-03-12,Brunei_Darussalam,BRN,BN,428962.0,10,0
 2020-03-10,Brunei_Darussalam,BRN,BN,428962.0,1,0
+2020-06-16,Bulgaria,BGR,BG,7024216.0,51,2
 2020-06-15,Bulgaria,BGR,BG,7024216.0,24,2
 2020-06-14,Bulgaria,BGR,BG,7024216.0,75,0
 2020-06-13,Bulgaria,BGR,BG,7024216.0,105,4
@@ -3520,6 +3551,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Bulgaria,BGR,BG,7024216.0,3,1
 2020-03-09,Bulgaria,BGR,BG,7024216.0,2,0
 2020-03-08,Bulgaria,BGR,BG,7024216.0,2,0
+2020-06-16,Burkina_Faso,BFA,BF,19751535.0,0,0
 2020-06-15,Burkina_Faso,BFA,BF,19751535.0,0,0
 2020-06-14,Burkina_Faso,BFA,BF,19751535.0,2,0
 2020-06-13,Burkina_Faso,BFA,BF,19751535.0,0,0
@@ -3615,6 +3647,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Burkina_Faso,BFA,BF,19751535.0,1,0
 2020-03-12,Burkina_Faso,BFA,BF,19751535.0,0,0
 2020-03-11,Burkina_Faso,BFA,BF,19751535.0,2,0
+2020-06-16,Burundi,BDI,BI,11175378.0,10,0
 2020-06-15,Burundi,BDI,BI,11175378.0,0,0
 2020-06-14,Burundi,BDI,BI,11175378.0,0,0
 2020-06-13,Burundi,BDI,BI,11175378.0,0,0
@@ -3691,6 +3724,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-03,Burundi,BDI,BI,11175378.0,1,0
 2020-04-02,Burundi,BDI,BI,11175378.0,0,0
 2020-04-01,Burundi,BDI,BI,11175378.0,2,0
+2020-06-16,Cambodia,KHM,KH,16249798.0,0,0
 2020-06-15,Cambodia,KHM,KH,16249798.0,0,0
 2020-06-14,Cambodia,KHM,KH,16249798.0,2,0
 2020-06-13,Cambodia,KHM,KH,16249798.0,0,0
@@ -3850,6 +3884,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Cambodia,KHM,KH,16249798.0,0,0
 2020-01-01,Cambodia,KHM,KH,16249798.0,0,0
 2019-12-31,Cambodia,KHM,KH,16249798.0,0,0
+2020-06-16,Cameroon,CMR,CM,25216237.0,0,0
 2020-06-15,Cameroon,CMR,CM,25216237.0,292,1
 2020-06-14,Cameroon,CMR,CM,25216237.0,376,2
 2020-06-13,Cameroon,CMR,CM,25216237.0,267,59
@@ -3945,6 +3980,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Cameroon,CMR,CM,25216237.0,1,0
 2020-03-09,Cameroon,CMR,CM,25216237.0,1,0
 2020-03-07,Cameroon,CMR,CM,25216237.0,1,0
+2020-06-16,Canada,CAN,CA,37058856.0,360,29
 2020-06-15,Canada,CAN,CA,37058856.0,377,39
 2020-06-14,Canada,CAN,CA,37058856.0,467,58
 2020-06-13,Canada,CAN,CA,37058856.0,413,55
@@ -4113,6 +4149,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Canada,CAN,CA,37058856.0,0,0
 2020-01-01,Canada,CAN,CA,37058856.0,0,0
 2019-12-31,Canada,CAN,CA,37058856.0,0,0
+2020-06-16,Cape_Verde,CPV,CV,543767.0,10,1
 2020-06-15,Cape_Verde,CPV,CV,543767.0,24,0
 2020-06-14,Cape_Verde,CPV,CV,543767.0,29,0
 2020-06-13,Cape_Verde,CPV,CV,543767.0,40,0
@@ -4264,6 +4301,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Cases_on_an_international_conveyance_Japan,,JPG11668,3000.0,0,0
 2020-01-01,Cases_on_an_international_conveyance_Japan,,JPG11668,3000.0,0,0
 2019-12-31,Cases_on_an_international_conveyance_Japan,,JPG11668,3000.0,0,0
+2020-06-16,Cayman_Islands,CYM,KY,64174.0,0,0
 2020-06-15,Cayman_Islands,CYM,KY,64174.0,0,0
 2020-06-14,Cayman_Islands,CYM,KY,64174.0,0,0
 2020-06-13,Cayman_Islands,CYM,KY,64174.0,7,0
@@ -4352,6 +4390,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Cayman_Islands,CYM,KY,64174.0,0,0
 2020-03-21,Cayman_Islands,CYM,KY,64174.0,2,1
 2020-03-20,Cayman_Islands,CYM,KY,64174.0,1,0
+2020-06-16,Central_African_Republic,CAF,CF,4666377.0,67,3
 2020-06-15,Central_African_Republic,CAF,CF,4666377.0,165,0
 2020-06-14,Central_African_Republic,CAF,CF,4666377.0,0,0
 2020-06-13,Central_African_Republic,CAF,CF,4666377.0,13,0
@@ -4444,6 +4483,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-18,Central_African_Republic,CAF,CF,4666377.0,0,0
 2020-03-17,Central_African_Republic,CAF,CF,4666377.0,0,0
 2020-03-16,Central_African_Republic,CAF,CF,4666377.0,1,0
+2020-06-16,Chad,TCD,TD,15477751.0,0,0
 2020-06-15,Chad,TCD,TD,15477751.0,2,1
 2020-06-14,Chad,TCD,TD,15477751.0,0,0
 2020-06-13,Chad,TCD,TD,15477751.0,0,0
@@ -4532,6 +4572,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Chad,TCD,TD,15477751.0,1,0
 2020-03-21,Chad,TCD,TD,15477751.0,0,0
 2020-03-20,Chad,TCD,TD,15477751.0,1,0
+2020-06-16,Chile,CHL,CL,18729160.0,5143,39
 2020-06-15,Chile,CHL,CL,18729160.0,6938,222
 2020-06-14,Chile,CHL,CL,18729160.0,6509,231
 2020-06-13,Chile,CHL,CL,18729160.0,6754,222
@@ -4635,6 +4676,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-06,Chile,CHL,CL,18729160.0,1,0
 2020-03-05,Chile,CHL,CL,18729160.0,2,0
 2020-03-04,Chile,CHL,CL,18729160.0,1,0
+2020-06-16,China,CHN,CN,1392730000.0,43,0
 2020-06-15,China,CHN,CN,1392730000.0,47,0
 2020-06-14,China,CHN,CN,1392730000.0,60,0
 2020-06-13,China,CHN,CN,1392730000.0,12,0
@@ -4803,6 +4845,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,China,CHN,CN,1392730000.0,0,0
 2020-01-01,China,CHN,CN,1392730000.0,0,0
 2019-12-31,China,CHN,CN,1392730000.0,27,0
+2020-06-16,Colombia,COL,CO,49648685.0,2124,59
 2020-06-15,Colombia,COL,CO,49648685.0,2193,75
 2020-06-14,Colombia,COL,CO,49648685.0,1888,47
 2020-06-13,Colombia,COL,CO,49648685.0,3176,112
@@ -4900,6 +4943,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Colombia,COL,CO,49648685.0,6,0
 2020-03-10,Colombia,COL,CO,49648685.0,2,0
 2020-03-07,Colombia,COL,CO,49648685.0,1,0
+2020-06-16,Comoros,COM,KM,832322.0,0,0
 2020-06-15,Comoros,COM,KM,832322.0,0,0
 2020-06-14,Comoros,COM,KM,832322.0,14,0
 2020-06-13,Comoros,COM,KM,832322.0,0,0
@@ -4945,6 +4989,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-05-04,Comoros,COM,KM,832322.0,2,0
 2020-05-03,Comoros,COM,KM,832322.0,0,0
 2020-05-02,Comoros,COM,KM,832322.0,1,0
+2020-06-16,Congo,COG,CG,5244363.0,104,2
 2020-06-15,Congo,COG,CG,5244363.0,0,0
 2020-06-14,Congo,COG,CG,5244363.0,34,0
 2020-06-13,Congo,COG,CG,5244363.0,0,0
@@ -5037,6 +5082,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-18,Congo,COG,CG,5244363.0,0,0
 2020-03-17,Congo,COG,CG,5244363.0,0,0
 2020-03-16,Congo,COG,CG,5244363.0,1,0
+2020-06-16,Costa_Rica,CRI,CR,4999441.0,29,0
 2020-06-15,Costa_Rica,CRI,CR,4999441.0,53,0
 2020-06-14,Costa_Rica,CRI,CR,4999441.0,50,0
 2020-06-13,Costa_Rica,CRI,CR,4999441.0,74,0
@@ -5137,6 +5183,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-10,Costa_Rica,CRI,CR,4999441.0,4,0
 2020-03-09,Costa_Rica,CRI,CR,4999441.0,4,0
 2020-03-07,Costa_Rica,CRI,CR,4999441.0,1,0
+2020-06-16,Cote_dIvoire,CIV,CI,25069229.0,355,1
 2020-06-15,Cote_dIvoire,CIV,CI,25069229.0,236,0
 2020-06-14,Cote_dIvoire,CIV,CI,25069229.0,164,0
 2020-06-13,Cote_dIvoire,CIV,CI,25069229.0,280,4
@@ -5231,6 +5278,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Cote_dIvoire,CIV,CI,25069229.0,0,0
 2020-03-15,Cote_dIvoire,CIV,CI,25069229.0,3,0
 2020-03-12,Cote_dIvoire,CIV,CI,25069229.0,1,0
+2020-06-16,Croatia,HRV,HR,4089400.0,2,0
 2020-06-15,Croatia,HRV,HR,4089400.0,1,0
 2020-06-14,Croatia,HRV,HR,4089400.0,2,0
 2020-06-13,Croatia,HRV,HR,4089400.0,0,1
@@ -5396,6 +5444,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Croatia,HRV,HR,4089400.0,0,0
 2020-01-01,Croatia,HRV,HR,4089400.0,0,0
 2019-12-31,Croatia,HRV,HR,4089400.0,0,0
+2020-06-16,Cuba,CUB,CU,11338138.0,14,0
 2020-06-15,Cuba,CUB,CU,11338138.0,10,0
 2020-06-14,Cuba,CUB,CU,11338138.0,5,0
 2020-06-13,Cuba,CUB,CU,11338138.0,14,0
@@ -5489,6 +5538,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Cuba,CUB,CU,11338138.0,0,0
 2020-03-14,Cuba,CUB,CU,11338138.0,1,0
 2020-03-12,Cuba,CUB,CU,11338138.0,3,0
+2020-06-16,Curaçao,CUW,CW,159849.0,0,0
 2020-06-15,Curaçao,CUW,CW,159849.0,0,0
 2020-06-14,Curaçao,CUW,CW,159849.0,0,0
 2020-06-13,Curaçao,CUW,CW,159849.0,0,0
@@ -5573,6 +5623,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Curaçao,CUW,CW,159849.0,3,0
 2020-03-20,Curaçao,CUW,CW,159849.0,2,0
 2020-03-13,Curaçao,CUW,CW,159849.0,1,0
+2020-06-16,Cyprus,CYP,CY,1189265.0,2,0
 2020-06-15,Cyprus,CYP,CY,1189265.0,3,0
 2020-06-14,Cyprus,CYP,CY,1189265.0,0,0
 2020-06-13,Cyprus,CYP,CY,1189265.0,5,0
@@ -5669,6 +5720,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-14,Cyprus,CYP,CY,1189265.0,8,0
 2020-03-12,Cyprus,CYP,CY,1189265.0,4,0
 2020-03-10,Cyprus,CYP,CY,1189265.0,2,0
+2020-06-16,Czechia,CZE,CZ,10625695.0,40,1
 2020-06-15,Czechia,CZE,CZ,10625695.0,33,0
 2020-06-14,Czechia,CZE,CZ,10625695.0,53,0
 2020-06-13,Czechia,CZE,CZ,10625695.0,52,0
@@ -5837,6 +5889,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Czechia,CZE,CZ,10625695.0,0,0
 2020-01-01,Czechia,CZE,CZ,10625695.0,0,0
 2019-12-31,Czechia,CZE,CZ,10625695.0,0,0
+2020-06-16,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,60,6
 2020-06-15,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,54,1
 2020-06-14,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,87,5
 2020-06-13,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,122,3
@@ -5932,6 +5985,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,0,0
 2020-03-14,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,1,0
 2020-03-11,Democratic_Republic_of_the_Congo,COD,CD,84068091.0,1,0
+2020-06-16,Denmark,DNK,DK,5797446.0,24,1
 2020-06-15,Denmark,DNK,DK,5797446.0,54,0
 2020-06-14,Denmark,DNK,DK,5797446.0,40,3
 2020-06-13,Denmark,DNK,DK,5797446.0,64,1
@@ -6100,6 +6154,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Denmark,DNK,DK,5797446.0,0,0
 2020-01-01,Denmark,DNK,DK,5797446.0,0,0
 2019-12-31,Denmark,DNK,DK,5797446.0,0,0
+2020-06-16,Djibouti,DJI,DJ,958920.0,36,0
 2020-06-15,Djibouti,DJI,DJ,958920.0,16,2
 2020-06-14,Djibouti,DJI,DJ,958920.0,8,3
 2020-06-13,Djibouti,DJI,DJ,958920.0,43,1
@@ -6189,6 +6244,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,Djibouti,DJI,DJ,958920.0,0,0
 2020-03-20,Djibouti,DJI,DJ,958920.0,0,0
 2020-03-19,Djibouti,DJI,DJ,958920.0,1,0
+2020-06-16,Dominica,DMA,DM,71625.0,0,0
 2020-06-15,Dominica,DMA,DM,71625.0,0,0
 2020-06-14,Dominica,DMA,DM,71625.0,0,0
 2020-06-13,Dominica,DMA,DM,71625.0,0,0
@@ -6274,6 +6330,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-25,Dominica,DMA,DM,71625.0,1,0
 2020-03-24,Dominica,DMA,DM,71625.0,0,0
 2020-03-23,Dominica,DMA,DM,71625.0,1,0
+2020-06-16,Dominican_Republic,DOM,DO,10627165.0,309,13
 2020-06-15,Dominican_Republic,DOM,DO,10627165.0,390,15
 2020-06-14,Dominican_Republic,DOM,DO,10627165.0,564,9
 2020-06-13,Dominican_Republic,DOM,DO,10627165.0,571,7
@@ -6433,6 +6490,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Dominican_Republic,DOM,DO,10627165.0,0,0
 2020-01-01,Dominican_Republic,DOM,DO,10627165.0,0,0
 2019-12-31,Dominican_Republic,DOM,DO,10627165.0,0,0
+2020-06-16,Ecuador,ECU,EC,17084357.0,571,33
 2020-06-15,Ecuador,ECU,EC,17084357.0,395,22
 2020-06-14,Ecuador,ECU,EC,17084357.0,578,46
 2020-06-13,Ecuador,ECU,EC,17084357.0,1338,108
@@ -6596,6 +6654,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Ecuador,ECU,EC,17084357.0,0,0
 2020-01-01,Ecuador,ECU,EC,17084357.0,0,0
 2019-12-31,Ecuador,ECU,EC,17084357.0,0,0
+2020-06-16,Egypt,EGY,EG,98423595.0,1691,97
 2020-06-15,Egypt,EGY,EG,98423595.0,1618,91
 2020-06-14,Egypt,EGY,EG,98423595.0,1676,62
 2020-06-13,Egypt,EGY,EG,98423595.0,1578,45
@@ -6760,6 +6819,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Egypt,EGY,EG,98423595.0,0,0
 2020-01-01,Egypt,EGY,EG,98423595.0,0,0
 2019-12-31,Egypt,EGY,EG,98423595.0,0,0
+2020-06-16,El_Salvador,SLV,SV,6420744.0,106,2
 2020-06-15,El_Salvador,SLV,SV,6420744.0,117,2
 2020-06-14,El_Salvador,SLV,SV,6420744.0,122,0
 2020-06-13,El_Salvador,SLV,SV,6420744.0,0,4
@@ -6849,6 +6909,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,El_Salvador,SLV,SV,6420744.0,2,0
 2020-03-20,El_Salvador,SLV,SV,6420744.0,0,0
 2020-03-19,El_Salvador,SLV,SV,6420744.0,1,0
+2020-06-16,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
 2020-06-15,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
 2020-06-14,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
 2020-06-13,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
@@ -6942,6 +7003,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
 2020-03-16,Equatorial_Guinea,GNQ,GQ,1308974.0,0,0
 2020-03-15,Equatorial_Guinea,GNQ,GQ,1308974.0,1,0
+2020-06-16,Eritrea,ERI,ER,,13,0
 2020-06-15,Eritrea,ERI,ER,,31,0
 2020-06-14,Eritrea,ERI,ER,,24,0
 2020-06-13,Eritrea,ERI,ER,,0,0
@@ -7028,6 +7090,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Eritrea,ERI,ER,,0,0
 2020-03-23,Eritrea,ERI,ER,,0,0
 2020-03-22,Eritrea,ERI,ER,,1,0
+2020-06-16,Estonia,EST,EE,1320884.0,1,0
 2020-06-15,Estonia,EST,EE,1320884.0,0,0
 2020-06-14,Estonia,EST,EE,1320884.0,3,0
 2020-06-13,Estonia,EST,EE,1320884.0,5,0
@@ -7191,6 +7254,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Estonia,EST,EE,1320884.0,0,0
 2020-01-01,Estonia,EST,EE,1320884.0,0,0
 2019-12-31,Estonia,EST,EE,1320884.0,0,0
+2020-06-16,Eswatini,SWZ,SZ,1367000.0,16,0
 2020-06-15,Eswatini,SWZ,SZ,1367000.0,4,1
 2020-06-14,Eswatini,SWZ,SZ,1367000.0,14,0
 2020-06-13,Eswatini,SWZ,SZ,1367000.0,23,0
@@ -7284,6 +7348,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Eswatini,SWZ,SZ,1367000.0,0,0
 2020-03-16,Eswatini,SWZ,SZ,1367000.0,0,0
 2020-03-15,Eswatini,SWZ,SZ,1367000.0,1,0
+2020-06-16,Ethiopia,ETH,ET,109224559.0,176,3
 2020-06-15,Ethiopia,ETH,ET,109224559.0,179,2
 2020-06-14,Ethiopia,ETH,ET,109224559.0,251,8
 2020-06-13,Ethiopia,ETH,ET,109224559.0,245,7
@@ -7378,6 +7443,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Ethiopia,ETH,ET,109224559.0,3,0
 2020-03-15,Ethiopia,ETH,ET,109224559.0,0,0
 2020-03-14,Ethiopia,ETH,ET,109224559.0,1,0
+2020-06-16,Falkland_Islands_(Malvinas),,FK,,0,0
 2020-06-15,Falkland_Islands_(Malvinas),,FK,,0,0
 2020-06-14,Falkland_Islands_(Malvinas),,FK,,0,0
 2020-06-13,Falkland_Islands_(Malvinas),,FK,,0,0
@@ -7451,6 +7517,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-06,Falkland_Islands_(Malvinas),,FK,,1,0
 2020-04-05,Falkland_Islands_(Malvinas),,FK,,0,0
 2020-04-04,Falkland_Islands_(Malvinas),,FK,,1,0
+2020-06-16,Faroe_Islands,FRO,FO,48497.0,0,0
 2020-06-15,Faroe_Islands,FRO,FO,48497.0,0,0
 2020-06-14,Faroe_Islands,FRO,FO,48497.0,0,0
 2020-06-13,Faroe_Islands,FRO,FO,48497.0,0,0
@@ -7539,6 +7606,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Faroe_Islands,FRO,FO,48497.0,12,0
 2020-03-21,Faroe_Islands,FRO,FO,48497.0,8,0
 2020-03-20,Faroe_Islands,FRO,FO,48497.0,72,0
+2020-06-16,Fiji,FJI,FJ,883483.0,0,0
 2020-06-15,Fiji,FJI,FJ,883483.0,0,0
 2020-06-14,Fiji,FJI,FJ,883483.0,0,0
 2020-06-13,Fiji,FJI,FJ,883483.0,0,0
@@ -7627,6 +7695,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Fiji,FJI,FJ,883483.0,1,0
 2020-03-21,Fiji,FJI,FJ,883483.0,0,0
 2020-03-20,Fiji,FJI,FJ,883483.0,1,0
+2020-06-16,Finland,FIN,FI,5518050.0,4,0
 2020-06-15,Finland,FIN,FI,5518050.0,17,1
 2020-06-14,Finland,FIN,FI,5518050.0,14,0
 2020-06-13,Finland,FIN,FI,5518050.0,9,0
@@ -7791,6 +7860,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Finland,FIN,FI,5518050.0,0,0
 2020-01-01,Finland,FIN,FI,5518050.0,0,0
 2019-12-31,Finland,FIN,FI,5518050.0,0,0
+2020-06-16,France,FRA,FR,66987244.0,152,29
 2020-06-15,France,FRA,FR,66987244.0,407,9
 2020-06-14,France,FRA,FR,66987244.0,526,24
 2020-06-13,France,FRA,FR,66987244.0,726,28
@@ -7959,6 +8029,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,France,FRA,FR,66987244.0,0,0
 2020-01-01,France,FRA,FR,66987244.0,0,0
 2019-12-31,France,FRA,FR,66987244.0,0,0
+2020-06-16,French_Polynesia,PYF,PF,277679.0,0,0
 2020-06-15,French_Polynesia,PYF,PF,277679.0,0,0
 2020-06-14,French_Polynesia,PYF,PF,277679.0,0,0
 2020-06-13,French_Polynesia,PYF,PF,277679.0,0,0
@@ -8048,6 +8119,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,French_Polynesia,PYF,PF,277679.0,12,0
 2020-03-20,French_Polynesia,PYF,PF,277679.0,0,0
 2020-03-19,French_Polynesia,PYF,PF,277679.0,3,0
+2020-06-16,Gabon,GAB,GA,2119275.0,570,4
 2020-06-15,Gabon,GAB,GA,2119275.0,0,0
 2020-06-14,Gabon,GAB,GA,2119275.0,0,0
 2020-06-13,Gabon,GAB,GA,2119275.0,0,0
@@ -8142,6 +8214,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Gabon,GAB,GA,2119275.0,0,0
 2020-03-15,Gabon,GAB,GA,2119275.0,0,0
 2020-03-13,Gabon,GAB,GA,2119275.0,1,0
+2020-06-16,Gambia,GMB,GM,2280102.0,2,0
 2020-06-15,Gambia,GMB,GM,2280102.0,0,0
 2020-06-14,Gambia,GMB,GM,2280102.0,0,0
 2020-06-13,Gambia,GMB,GM,2280102.0,0,0
@@ -8232,6 +8305,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-20,Gambia,GMB,GM,2280102.0,0,0
 2020-03-19,Gambia,GMB,GM,2280102.0,0,0
 2020-03-18,Gambia,GMB,GM,2280102.0,1,0
+2020-06-16,Georgia,GEO,GE,3731000.0,0,0
 2020-06-15,Georgia,GEO,GE,3731000.0,28,0
 2020-06-14,Georgia,GEO,GE,3731000.0,8,1
 2020-06-13,Georgia,GEO,GE,3731000.0,12,0
@@ -8397,6 +8471,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Georgia,GEO,GE,3731000.0,0,0
 2020-01-01,Georgia,GEO,GE,3731000.0,0,0
 2019-12-31,Georgia,GEO,GE,3731000.0,0,0
+2020-06-16,Germany,DEU,DE,82927922.0,378,9
 2020-06-15,Germany,DEU,DE,82927922.0,192,4
 2020-06-14,Germany,DEU,DE,82927922.0,247,6
 2020-06-13,Germany,DEU,DE,82927922.0,348,18
@@ -8565,6 +8640,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Germany,DEU,DE,82927922.0,0,0
 2020-01-01,Germany,DEU,DE,82927922.0,0,0
 2019-12-31,Germany,DEU,DE,82927922.0,0,0
+2020-06-16,Ghana,GHA,GH,29767108.0,0,0
 2020-06-15,Ghana,GHA,GH,29767108.0,542,3
 2020-06-14,Ghana,GHA,GH,29767108.0,304,3
 2020-06-13,Ghana,GHA,GH,29767108.0,760,0
@@ -8659,6 +8735,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Ghana,GHA,GH,29767108.0,0,0
 2020-03-15,Ghana,GHA,GH,29767108.0,0,0
 2020-03-13,Ghana,GHA,GH,29767108.0,2,0
+2020-06-16,Gibraltar,GIB,GI,33718.0,0,0
 2020-06-15,Gibraltar,GIB,GI,33718.0,0,0
 2020-06-14,Gibraltar,GIB,GI,33718.0,0,0
 2020-06-13,Gibraltar,GIB,GI,33718.0,0,0
@@ -8747,6 +8824,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Gibraltar,GIB,GI,33718.0,0,0
 2020-03-21,Gibraltar,GIB,GI,33718.0,0,0
 2020-03-20,Gibraltar,GIB,GI,33718.0,10,0
+2020-06-16,Greece,GRC,EL,10727668.0,13,1
 2020-06-15,Greece,GRC,EL,10727668.0,9,0
 2020-06-14,Greece,GRC,EL,10727668.0,4,0
 2020-06-13,Greece,GRC,EL,10727668.0,20,0
@@ -8913,6 +8991,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Greece,GRC,EL,10727668.0,0,0
 2020-01-01,Greece,GRC,EL,10727668.0,0,0
 2019-12-31,Greece,GRC,EL,10727668.0,0,0
+2020-06-16,Greenland,GRL,GL,56025.0,0,0
 2020-06-15,Greenland,GRL,GL,56025.0,0,0
 2020-06-14,Greenland,GRL,GL,56025.0,0,0
 2020-06-13,Greenland,GRL,GL,56025.0,0,0
@@ -9001,6 +9080,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Greenland,GRL,GL,56025.0,0,0
 2020-03-21,Greenland,GRL,GL,56025.0,0,0
 2020-03-20,Greenland,GRL,GL,56025.0,2,0
+2020-06-16,Grenada,GRD,GD,111454.0,0,0
 2020-06-15,Grenada,GRD,GD,111454.0,0,0
 2020-06-14,Grenada,GRD,GD,111454.0,0,0
 2020-06-13,Grenada,GRD,GD,111454.0,0,0
@@ -9086,6 +9166,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-25,Grenada,GRD,GD,111454.0,0,0
 2020-03-24,Grenada,GRD,GD,111454.0,0,0
 2020-03-23,Grenada,GRD,GD,111454.0,1,0
+2020-06-16,Guam,GUM,GU,165768.0,1,0
 2020-06-15,Guam,GUM,GU,165768.0,0,0
 2020-06-14,Guam,GUM,GU,165768.0,0,0
 2020-06-13,Guam,GUM,GU,165768.0,3,0
@@ -9175,6 +9256,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,Guam,GUM,GU,165768.0,2,0
 2020-03-20,Guam,GUM,GU,165768.0,9,0
 2020-03-19,Guam,GUM,GU,165768.0,3,0
+2020-06-16,Guatemala,GTM,GT,17247807.0,427,15
 2020-06-15,Guatemala,GTM,GT,17247807.0,354,17
 2020-06-14,Guatemala,GTM,GT,17247807.0,509,16
 2020-06-13,Guatemala,GTM,GT,17247807.0,421,17
@@ -9268,6 +9350,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Guatemala,GTM,GT,17247807.0,5,0
 2020-03-16,Guatemala,GTM,GT,17247807.0,0,1
 2020-03-15,Guatemala,GTM,GT,17247807.0,1,0
+2020-06-16,Guernsey,GGY,GG,63026.0,0,0
 2020-06-15,Guernsey,GGY,GG,63026.0,0,0
 2020-06-14,Guernsey,GGY,GG,63026.0,0,0
 2020-06-13,Guernsey,GGY,GG,63026.0,0,0
@@ -9356,6 +9439,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Guernsey,GGY,GG,63026.0,0,0
 2020-03-21,Guernsey,GGY,GG,63026.0,0,0
 2020-03-20,Guernsey,GGY,GG,63026.0,1,0
+2020-06-16,Guinea,GIN,GN,12414318.0,40,1
 2020-06-15,Guinea,GIN,GN,12414318.0,48,0
 2020-06-14,Guinea,GIN,GN,12414318.0,58,1
 2020-06-13,Guinea,GIN,GN,12414318.0,54,1
@@ -9449,6 +9533,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Guinea,GIN,GN,12414318.0,0,0
 2020-03-15,Guinea,GIN,GN,12414318.0,0,0
 2020-03-14,Guinea,GIN,GN,12414318.0,1,0
+2020-06-16,Guinea_Bissau,GNB,GW,1874309.0,0,0
 2020-06-15,Guinea_Bissau,GNB,GW,1874309.0,0,0
 2020-06-14,Guinea_Bissau,GNB,GW,1874309.0,71,3
 2020-06-13,Guinea_Bissau,GNB,GW,1874309.0,0,0
@@ -9530,6 +9615,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-29,Guinea_Bissau,GNB,GW,1874309.0,0,0
 2020-03-28,Guinea_Bissau,GNB,GW,1874309.0,0,0
 2020-03-27,Guinea_Bissau,GNB,GW,1874309.0,2,0
+2020-06-16,Guyana,GUY,GY,779004.0,0,0
 2020-06-15,Guyana,GUY,GY,779004.0,0,0
 2020-06-14,Guyana,GUY,GY,779004.0,0,0
 2020-06-13,Guyana,GUY,GY,779004.0,1,0
@@ -9623,6 +9709,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Guyana,GUY,GY,779004.0,0,0
 2020-03-16,Guyana,GUY,GY,779004.0,3,0
 2020-03-13,Guyana,GUY,GY,779004.0,1,1
+2020-06-16,Haiti,HTI,HT,11123176.0,132,3
 2020-06-15,Haiti,HTI,HT,11123176.0,144,3
 2020-06-14,Haiti,HTI,HT,11123176.0,224,6
 2020-06-13,Haiti,HTI,HT,11123176.0,0,0
@@ -9711,6 +9798,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Haiti,HTI,HT,11123176.0,0,0
 2020-03-21,Haiti,HTI,HT,11123176.0,0,0
 2020-03-20,Haiti,HTI,HT,11123176.0,2,0
+2020-06-16,Holy_See,VAT,VA,1000.0,0,0
 2020-06-15,Holy_See,VAT,VA,1000.0,0,0
 2020-06-14,Holy_See,VAT,VA,1000.0,0,0
 2020-06-13,Holy_See,VAT,VA,1000.0,0,0
@@ -9804,6 +9892,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Holy_See,VAT,VA,1000.0,0,0
 2020-03-16,Holy_See,VAT,VA,1000.0,0,0
 2020-03-07,Holy_See,VAT,VA,1000.0,1,0
+2020-06-16,Honduras,HND,HN,9587522.0,320,10
 2020-06-15,Honduras,HND,HN,9587522.0,403,2
 2020-06-14,Honduras,HND,HN,9587522.0,323,4
 2020-06-13,Honduras,HND,HN,9587522.0,463,12
@@ -9898,6 +9987,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Honduras,HND,HN,9587522.0,3,0
 2020-03-14,Honduras,HND,HN,9587522.0,1,0
 2020-03-12,Honduras,HND,HN,9587522.0,2,0
+2020-06-16,Hungary,HUN,HU,9768785.0,1,2
 2020-06-15,Hungary,HUN,HU,9768785.0,12,4
 2020-06-14,Hungary,HUN,HU,9768785.0,11,4
 2020-06-13,Hungary,HUN,HU,9768785.0,14,2
@@ -10000,6 +10090,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-08,Hungary,HUN,HU,9768785.0,3,0
 2020-03-07,Hungary,HUN,HU,9768785.0,2,0
 2020-03-05,Hungary,HUN,HU,9768785.0,2,0
+2020-06-16,Iceland,ISL,IS,353574.0,0,0
 2020-06-15,Iceland,ISL,IS,353574.0,2,0
 2020-06-14,Iceland,ISL,IS,353574.0,1,0
 2020-06-13,Iceland,ISL,IS,353574.0,0,0
@@ -10168,6 +10259,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Iceland,ISL,IS,353574.0,0,0
 2020-01-01,Iceland,ISL,IS,353574.0,0,0
 2019-12-31,Iceland,ISL,IS,353574.0,0,0
+2020-06-16,India,IND,IN,1352617328.0,10667,380
 2020-06-15,India,IND,IN,1352617328.0,11502,325
 2020-06-14,India,IND,IN,1352617328.0,11929,311
 2020-06-13,India,IND,IN,1352617328.0,11458,386
@@ -10335,6 +10427,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,India,IND,IN,1352617328.0,0,0
 2020-01-01,India,IND,IN,1352617328.0,0,0
 2019-12-31,India,IND,IN,1352617328.0,0,0
+2020-06-16,Indonesia,IDN,ID,267663435.0,1017,64
 2020-06-15,Indonesia,IDN,ID,267663435.0,857,43
 2020-06-14,Indonesia,IDN,ID,267663435.0,1014,43
 2020-06-13,Indonesia,IDN,ID,267663435.0,1111,48
@@ -10496,6 +10589,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Indonesia,IDN,ID,267663435.0,0,0
 2020-01-01,Indonesia,IDN,ID,267663435.0,0,0
 2019-12-31,Indonesia,IDN,ID,267663435.0,0,0
+2020-06-16,Iran,IRN,IR,81800269.0,2449,113
 2020-06-15,Iran,IRN,IR,81800269.0,2472,107
 2020-06-14,Iran,IRN,IR,81800269.0,2410,71
 2020-06-13,Iran,IRN,IR,81800269.0,2369,75
@@ -10664,6 +10758,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Iran,IRN,IR,81800269.0,0,0
 2020-01-01,Iran,IRN,IR,81800269.0,0,0
 2019-12-31,Iran,IRN,IR,81800269.0,0,0
+2020-06-16,Iraq,IRQ,IQ,38433600.0,1106,45
 2020-06-15,Iraq,IRQ,IQ,38433600.0,1259,58
 2020-06-14,Iraq,IRQ,IQ,38433600.0,1180,53
 2020-06-13,Iraq,IRQ,IQ,38433600.0,1095,39
@@ -10830,6 +10925,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Iraq,IRQ,IQ,38433600.0,0,0
 2020-01-01,Iraq,IRQ,IQ,38433600.0,0,0
 2019-12-31,Iraq,IRQ,IQ,38433600.0,0,0
+2020-06-16,Ireland,IRL,IE,4853506.0,18,0
 2020-06-15,Ireland,IRL,IE,4853506.0,8,1
 2020-06-14,Ireland,IRL,IE,4853506.0,45,0
 2020-06-13,Ireland,IRL,IE,4853506.0,12,2
@@ -10996,6 +11092,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Ireland,IRL,IE,4853506.0,0,0
 2020-01-01,Ireland,IRL,IE,4853506.0,0,0
 2019-12-31,Ireland,IRL,IE,4853506.0,0,0
+2020-06-16,Isle_of_Man,IMN,IM,84077.0,0,0
 2020-06-15,Isle_of_Man,IMN,IM,84077.0,0,0
 2020-06-14,Isle_of_Man,IMN,IM,84077.0,0,0
 2020-06-13,Isle_of_Man,IMN,IM,84077.0,0,0
@@ -11083,6 +11180,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,Isle_of_Man,IMN,IM,84077.0,0,0
 2020-03-22,Isle_of_Man,IMN,IM,84077.0,1,0
 2020-03-21,Isle_of_Man,IMN,IM,84077.0,1,0
+2020-06-16,Israel,ISR,IL,8883800.0,217,0
 2020-06-15,Israel,ISR,IL,8883800.0,113,2
 2020-06-14,Israel,ISR,IL,8883800.0,132,0
 2020-06-13,Israel,ISR,IL,8883800.0,175,0
@@ -11248,6 +11346,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Israel,ISR,IL,8883800.0,0,0
 2020-01-01,Israel,ISR,IL,8883800.0,0,0
 2019-12-31,Israel,ISR,IL,8883800.0,0,0
+2020-06-16,Italy,ITA,IT,60431283.0,301,26
 2020-06-15,Italy,ITA,IT,60431283.0,338,44
 2020-06-14,Italy,ITA,IT,60431283.0,346,78
 2020-06-13,Italy,ITA,IT,60431283.0,163,56
@@ -11416,6 +11515,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Italy,ITA,IT,60431283.0,0,0
 2020-01-01,Italy,ITA,IT,60431283.0,0,0
 2019-12-31,Italy,ITA,IT,60431283.0,0,0
+2020-06-16,Jamaica,JAM,JM,2934855.0,4,0
 2020-06-15,Jamaica,JAM,JM,2934855.0,2,0
 2020-06-14,Jamaica,JAM,JM,2934855.0,1,0
 2020-06-13,Jamaica,JAM,JM,2934855.0,3,0
@@ -11511,6 +11611,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-14,Jamaica,JAM,JM,2934855.0,2,0
 2020-03-13,Jamaica,JAM,JM,2934855.0,4,0
 2020-03-12,Jamaica,JAM,JM,2934855.0,2,0
+2020-06-16,Japan,JPN,JP,126529100.0,85,2
 2020-06-15,Japan,JPN,JP,126529100.0,73,0
 2020-06-14,Japan,JPN,JP,126529100.0,47,1
 2020-06-13,Japan,JPN,JP,126529100.0,50,2
@@ -11679,6 +11780,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Japan,JPN,JP,126529100.0,0,0
 2020-01-01,Japan,JPN,JP,126529100.0,0,0
 2019-12-31,Japan,JPN,JP,126529100.0,0,0
+2020-06-16,Jersey,JEY,JE,106800.0,3,0
 2020-06-15,Jersey,JEY,JE,106800.0,0,0
 2020-06-14,Jersey,JEY,JE,106800.0,0,0
 2020-06-13,Jersey,JEY,JE,106800.0,0,0
@@ -11767,6 +11869,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Jersey,JEY,JE,106800.0,0,0
 2020-03-21,Jersey,JEY,JE,106800.0,7,0
 2020-03-20,Jersey,JEY,JE,106800.0,5,0
+2020-06-16,Jordan,JOR,JO,9956011.0,18,0
 2020-06-15,Jordan,JOR,JO,9956011.0,8,0
 2020-06-14,Jordan,JOR,JO,9956011.0,38,0
 2020-06-13,Jordan,JOR,JO,9956011.0,25,0
@@ -11862,6 +11965,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Jordan,JOR,JO,9956011.0,0,0
 2020-03-08,Jordan,JOR,JO,9956011.0,0,0
 2020-03-03,Jordan,JOR,JO,9956011.0,1,0
+2020-06-16,Kazakhstan,KAZ,KZ,18276499.0,383,4
 2020-06-15,Kazakhstan,KAZ,KZ,18276499.0,313,4
 2020-06-14,Kazakhstan,KAZ,KZ,18276499.0,258,3
 2020-06-13,Kazakhstan,KAZ,KZ,18276499.0,366,3
@@ -11955,6 +12059,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Kazakhstan,KAZ,KZ,18276499.0,2,0
 2020-03-16,Kazakhstan,KAZ,KZ,18276499.0,3,0
 2020-03-15,Kazakhstan,KAZ,KZ,18276499.0,6,0
+2020-06-16,Kenya,KEN,KE,51393010.0,133,1
 2020-06-15,Kenya,KEN,KE,51393010.0,137,3
 2020-06-14,Kenya,KEN,KE,51393010.0,152,4
 2020-06-13,Kenya,KEN,KE,51393010.0,90,4
@@ -12049,6 +12154,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Kenya,KEN,KE,51393010.0,2,0
 2020-03-15,Kenya,KEN,KE,51393010.0,0,0
 2020-03-14,Kenya,KEN,KE,51393010.0,1,0
+2020-06-16,Kosovo,XKX,XK,1845300.0,49,1
 2020-06-15,Kosovo,XKX,XK,1845300.0,0,0
 2020-06-14,Kosovo,XKX,XK,1845300.0,111,1
 2020-06-13,Kosovo,XKX,XK,1845300.0,0,0
@@ -12141,6 +12247,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-18,Kosovo,XKX,XK,1845300.0,17,0
 2020-03-17,Kosovo,XKX,XK,1845300.0,0,0
 2020-03-16,Kosovo,XKX,XK,1845300.0,2,0
+2020-06-16,Kuwait,KWT,KW,4137309.0,511,2
 2020-06-15,Kuwait,KWT,KW,4137309.0,454,7
 2020-06-14,Kuwait,KWT,KW,4137309.0,514,4
 2020-06-13,Kuwait,KWT,KW,4137309.0,520,6
@@ -12306,6 +12413,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Kuwait,KWT,KW,4137309.0,0,0
 2020-01-01,Kuwait,KWT,KW,4137309.0,0,0
 2019-12-31,Kuwait,KWT,KW,4137309.0,0,0
+2020-06-16,Kyrgyzstan,KGZ,KG,6315800.0,100,1
 2020-06-15,Kyrgyzstan,KGZ,KG,6315800.0,87,0
 2020-06-14,Kyrgyzstan,KGZ,KG,6315800.0,78,0
 2020-06-13,Kyrgyzstan,KGZ,KG,6315800.0,41,1
@@ -12395,6 +12503,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,Kyrgyzstan,KGZ,KG,6315800.0,0,0
 2020-03-20,Kyrgyzstan,KGZ,KG,6315800.0,3,0
 2020-03-19,Kyrgyzstan,KGZ,KG,6315800.0,3,0
+2020-06-16,Laos,LAO,LA,7061507.0,0,0
 2020-06-15,Laos,LAO,LA,7061507.0,0,0
 2020-06-14,Laos,LAO,LA,7061507.0,0,0
 2020-06-13,Laos,LAO,LA,7061507.0,0,0
@@ -12478,6 +12587,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-27,Laos,LAO,LA,7061507.0,4,0
 2020-03-26,Laos,LAO,LA,7061507.0,0,0
 2020-03-25,Laos,LAO,LA,7061507.0,2,0
+2020-06-16,Latvia,LVA,LV,1926542.0,0,0
 2020-06-15,Latvia,LVA,LV,1926542.0,0,0
 2020-06-14,Latvia,LVA,LV,1926542.0,1,1
 2020-06-13,Latvia,LVA,LV,1926542.0,2,1
@@ -12579,6 +12689,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-09,Latvia,LVA,LV,1926542.0,1,0
 2020-03-08,Latvia,LVA,LV,1926542.0,1,0
 2020-03-03,Latvia,LVA,LV,1926542.0,1,0
+2020-06-16,Lebanon,LBN,LB,6848925.0,18,0
 2020-06-15,Lebanon,LBN,LB,6848925.0,4,0
 2020-06-14,Lebanon,LBN,LB,6848925.0,20,1
 2020-06-13,Lebanon,LBN,LB,6848925.0,20,0
@@ -12743,6 +12854,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Lebanon,LBN,LB,6848925.0,0,0
 2020-01-01,Lebanon,LBN,LB,6848925.0,0,0
 2019-12-31,Lebanon,LBN,LB,6848925.0,0,0
+2020-06-16,Lesotho,LSO,LS,2108132.0,0,0
 2020-06-15,Lesotho,LSO,LS,2108132.0,0,0
 2020-06-14,Lesotho,LSO,LS,2108132.0,0,0
 2020-06-13,Lesotho,LSO,LS,2108132.0,0,0
@@ -12775,6 +12887,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-05-17,Lesotho,LSO,LS,2108132.0,0,0
 2020-05-16,Lesotho,LSO,LS,2108132.0,0,0
 2020-05-15,Lesotho,LSO,LS,2108132.0,1,0
+2020-06-16,Liberia,LBR,LR,4818977.0,40,1
 2020-06-15,Liberia,LBR,LR,4818977.0,12,0
 2020-06-14,Liberia,LBR,LR,4818977.0,25,0
 2020-06-13,Liberia,LBR,LR,4818977.0,11,1
@@ -12866,6 +12979,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-19,Liberia,LBR,LR,4818977.0,0,0
 2020-03-18,Liberia,LBR,LR,4818977.0,1,0
 2020-03-17,Liberia,LBR,LR,4818977.0,1,0
+2020-06-16,Libya,LBY,LY,6678567.0,49,2
 2020-06-15,Libya,LBY,LY,6678567.0,0,0
 2020-06-14,Libya,LBY,LY,6678567.0,9,2
 2020-06-13,Libya,LBY,LY,6678567.0,16,1
@@ -12949,6 +13063,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-27,Libya,LBY,LY,6678567.0,0,0
 2020-03-26,Libya,LBY,LY,6678567.0,0,0
 2020-03-25,Libya,LBY,LY,6678567.0,1,0
+2020-06-16,Liechtenstein,LIE,LI,37910.0,0,0
 2020-06-15,Liechtenstein,LIE,LI,37910.0,0,0
 2020-06-14,Liechtenstein,LIE,LI,37910.0,0,0
 2020-06-13,Liechtenstein,LIE,LI,37910.0,0,0
@@ -13046,6 +13161,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-13,Liechtenstein,LIE,LI,37910.0,1,0
 2020-03-12,Liechtenstein,LIE,LI,37910.0,2,0
 2020-03-05,Liechtenstein,LIE,LI,37910.0,1,0
+2020-06-16,Lithuania,LTU,LT,2789533.0,5,1
 2020-06-15,Lithuania,LTU,LT,2789533.0,5,0
 2020-06-14,Lithuania,LTU,LT,2789533.0,7,1
 2020-06-13,Lithuania,LTU,LT,2789533.0,4,0
@@ -13205,6 +13321,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Lithuania,LTU,LT,2789533.0,0,0
 2020-01-01,Lithuania,LTU,LT,2789533.0,0,0
 2019-12-31,Lithuania,LTU,LT,2789533.0,0,0
+2020-06-16,Luxembourg,LUX,LU,607728.0,2,0
 2020-06-15,Luxembourg,LUX,LU,607728.0,7,0
 2020-06-14,Luxembourg,LUX,LU,607728.0,8,0
 2020-06-13,Luxembourg,LUX,LU,607728.0,3,0
@@ -13366,6 +13483,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Luxembourg,LUX,LU,607728.0,0,0
 2020-01-01,Luxembourg,LUX,LU,607728.0,0,0
 2019-12-31,Luxembourg,LUX,LU,607728.0,0,0
+2020-06-16,Madagascar,MDG,MG,26262368.0,18,0
 2020-06-15,Madagascar,MDG,MG,26262368.0,20,0
 2020-06-14,Madagascar,MDG,MG,26262368.0,22,0
 2020-06-13,Madagascar,MDG,MG,26262368.0,27,0
@@ -13453,6 +13571,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,Madagascar,MDG,MG,26262368.0,0,0
 2020-03-22,Madagascar,MDG,MG,26262368.0,0,0
 2020-03-21,Madagascar,MDG,MG,26262368.0,3,0
+2020-06-16,Malawi,MWI,MW,18143315.0,9,0
 2020-06-15,Malawi,MWI,MW,18143315.0,18,1
 2020-06-14,Malawi,MWI,MW,18143315.0,48,1
 2020-06-13,Malawi,MWI,MW,18143315.0,0,0
@@ -13527,6 +13646,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-05,Malawi,MWI,MW,18143315.0,1,0
 2020-04-04,Malawi,MWI,MW,18143315.0,0,0
 2020-04-03,Malawi,MWI,MW,18143315.0,3,0
+2020-06-16,Malaysia,MYS,MY,31528585.0,41,0
 2020-06-15,Malaysia,MYS,MY,31528585.0,8,1
 2020-06-14,Malaysia,MYS,MY,31528585.0,43,1
 2020-06-13,Malaysia,MYS,MY,31528585.0,33,1
@@ -13694,6 +13814,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Malaysia,MYS,MY,31528585.0,0,0
 2020-01-01,Malaysia,MYS,MY,31528585.0,0,0
 2019-12-31,Malaysia,MYS,MY,31528585.0,0,0
+2020-06-16,Maldives,MDV,MV,515696.0,30,0
 2020-06-15,Maldives,MDV,MV,515696.0,22,0
 2020-06-14,Maldives,MDV,MV,515696.0,10,0
 2020-06-13,Maldives,MDV,MV,515696.0,27,0
@@ -13792,6 +13913,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-11,Maldives,MDV,MV,515696.0,2,0
 2020-03-09,Maldives,MDV,MV,515696.0,2,0
 2020-03-08,Maldives,MDV,MV,515696.0,2,0
+2020-06-16,Mali,MLI,ML,19077690.0,51,0
 2020-06-15,Mali,MLI,ML,19077690.0,33,0
 2020-06-14,Mali,MLI,ML,19077690.0,24,3
 2020-06-13,Mali,MLI,ML,19077690.0,30,4
@@ -13874,6 +13996,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-28,Mali,MLI,ML,19077690.0,0,0
 2020-03-27,Mali,MLI,ML,19077690.0,2,0
 2020-03-26,Mali,MLI,ML,19077690.0,2,0
+2020-06-16,Malta,MLT,MT,483530.0,3,0
 2020-06-15,Malta,MLT,MT,483530.0,0,0
 2020-06-14,Malta,MLT,MT,483530.0,1,0
 2020-06-13,Malta,MLT,MT,483530.0,5,0
@@ -13975,6 +14098,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-09,Malta,MLT,MT,483530.0,0,0
 2020-03-08,Malta,MLT,MT,483530.0,2,0
 2020-03-07,Malta,MLT,MT,483530.0,1,0
+2020-06-16,Mauritania,MRT,MR,4403319.0,104,4
 2020-06-15,Mauritania,MRT,MR,4403319.0,344,13
 2020-06-14,Mauritania,MRT,MR,4403319.0,0,0
 2020-06-13,Mauritania,MRT,MR,4403319.0,277,13
@@ -14068,6 +14192,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Mauritania,MRT,MR,4403319.0,0,0
 2020-03-16,Mauritania,MRT,MR,4403319.0,0,0
 2020-03-15,Mauritania,MRT,MR,4403319.0,1,0
+2020-06-16,Mauritius,MUS,MU,1265303.0,0,0
 2020-06-15,Mauritius,MUS,MU,1265303.0,0,0
 2020-06-14,Mauritius,MUS,MU,1265303.0,0,0
 2020-06-13,Mauritius,MUS,MU,1265303.0,0,0
@@ -14156,6 +14281,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Mauritius,MUS,MU,1265303.0,2,1
 2020-03-21,Mauritius,MUS,MU,1265303.0,9,0
 2020-03-20,Mauritius,MUS,MU,1265303.0,3,0
+2020-06-16,Mexico,MEX,MX,126190788.0,3427,439
 2020-06-15,Mexico,MEX,MX,126190788.0,4147,269
 2020-06-14,Mexico,MEX,MX,126190788.0,3494,424
 2020-06-13,Mexico,MEX,MX,126190788.0,5222,504
@@ -14316,6 +14442,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Mexico,MEX,MX,126190788.0,0,0
 2020-01-01,Mexico,MEX,MX,126190788.0,0,0
 2019-12-31,Mexico,MEX,MX,126190788.0,0,0
+2020-06-16,Moldova,MDA,MD,3545883.0,139,5
 2020-06-15,Moldova,MDA,MD,3545883.0,281,8
 2020-06-14,Moldova,MDA,MD,3545883.0,366,13
 2020-06-13,Moldova,MDA,MD,3545883.0,366,10
@@ -14414,6 +14541,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Moldova,MDA,MD,3545883.0,1,0
 2020-03-11,Moldova,MDA,MD,3545883.0,2,0
 2020-03-08,Moldova,MDA,MD,3545883.0,1,0
+2020-06-16,Monaco,MCO,MC,38682.0,0,0
 2020-06-15,Monaco,MCO,MC,38682.0,0,0
 2020-06-14,Monaco,MCO,MC,38682.0,0,0
 2020-06-13,Monaco,MCO,MC,38682.0,0,0
@@ -14570,6 +14698,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Monaco,MCO,MC,38682.0,0,0
 2020-01-01,Monaco,MCO,MC,38682.0,0,0
 2019-12-31,Monaco,MCO,MC,38682.0,0,0
+2020-06-16,Mongolia,MNG,MN,3170208.0,0,0
 2020-06-15,Mongolia,MNG,MN,3170208.0,0,0
 2020-06-14,Mongolia,MNG,MN,3170208.0,0,0
 2020-06-13,Mongolia,MNG,MN,3170208.0,0,0
@@ -14662,6 +14791,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-18,Mongolia,MNG,MN,3170208.0,3,0
 2020-03-15,Mongolia,MNG,MN,3170208.0,0,0
 2020-03-10,Mongolia,MNG,MN,3170208.0,1,0
+2020-06-16,Montenegro,MNE,ME,622345.0,1,0
 2020-06-15,Montenegro,MNE,ME,622345.0,1,0
 2020-06-14,Montenegro,MNE,ME,622345.0,0,0
 2020-06-13,Montenegro,MNE,ME,622345.0,0,0
@@ -14752,6 +14882,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-20,Montenegro,MNE,ME,622345.0,5,0
 2020-03-19,Montenegro,MNE,ME,622345.0,6,0
 2020-03-18,Montenegro,MNE,ME,622345.0,2,0
+2020-06-16,Montserrat,MSR,MS,5900.0,0,0
 2020-06-15,Montserrat,MSR,MS,5900.0,0,0
 2020-06-14,Montserrat,MSR,MS,5900.0,0,0
 2020-06-13,Montserrat,MSR,MS,5900.0,0,0
@@ -14838,6 +14969,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,Montserrat,MSR,MS,5900.0,0,0
 2020-03-22,Montserrat,MSR,MS,5900.0,0,0
 2020-03-21,Montserrat,MSR,MS,5900.0,1,0
+2020-06-16,Morocco,MAR,MA,36029138.0,104,0
 2020-06-15,Morocco,MAR,MA,36029138.0,42,0
 2020-06-14,Morocco,MAR,MA,36029138.0,82,0
 2020-06-13,Morocco,MAR,MA,36029138.0,73,1
@@ -14936,6 +15068,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Morocco,MAR,MA,36029138.0,3,1
 2020-03-06,Morocco,MAR,MA,36029138.0,1,0
 2020-03-03,Morocco,MAR,MA,36029138.0,1,0
+2020-06-16,Mozambique,MOZ,MZ,29495962.0,26,0
 2020-06-15,Mozambique,MOZ,MZ,29495962.0,30,1
 2020-06-14,Mozambique,MOZ,MZ,29495962.0,44,0
 2020-06-13,Mozambique,MOZ,MZ,29495962.0,20,0
@@ -15021,6 +15154,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-25,Mozambique,MOZ,MZ,29495962.0,0,0
 2020-03-24,Mozambique,MOZ,MZ,29495962.0,0,0
 2020-03-23,Mozambique,MOZ,MZ,29495962.0,1,0
+2020-06-16,Myanmar,MMR,MM,53708395.0,0,0
 2020-06-15,Myanmar,MMR,MM,53708395.0,1,0
 2020-06-14,Myanmar,MMR,MM,53708395.0,0,0
 2020-06-13,Myanmar,MMR,MM,53708395.0,0,0
@@ -15106,6 +15240,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-25,Myanmar,MMR,MM,53708395.0,1,0
 2020-03-24,Myanmar,MMR,MM,53708395.0,2,0
 2020-03-17,Myanmar,MMR,MM,53708395.0,0,0
+2020-06-16,Namibia,NAM,,2448255.0,0,0
 2020-06-15,Namibia,NAM,,2448255.0,0,0
 2020-06-14,Namibia,NAM,,2448255.0,1,0
 2020-06-13,Namibia,NAM,,2448255.0,0,0
@@ -15199,6 +15334,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Namibia,NAM,,2448255.0,0,0
 2020-03-16,Namibia,NAM,,2448255.0,0,0
 2020-03-15,Namibia,NAM,,2448255.0,2,0
+2020-06-16,Nepal,NPL,NP,28087871.0,451,0
 2020-06-15,Nepal,NPL,NP,28087871.0,425,1
 2020-06-14,Nepal,NPL,NP,28087871.0,273,2
 2020-06-13,Nepal,NPL,NP,28087871.0,448,1
@@ -15354,6 +15490,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Nepal,NPL,NP,28087871.0,0,0
 2020-01-01,Nepal,NPL,NP,28087871.0,0,0
 2019-12-31,Nepal,NPL,NP,28087871.0,0,0
+2020-06-16,Netherlands,NLD,NL,17231017.0,0,0
 2020-06-15,Netherlands,NLD,NL,17231017.0,143,2
 2020-06-14,Netherlands,NLD,NL,17231017.0,179,4
 2020-06-13,Netherlands,NLD,NL,17231017.0,210,9
@@ -15522,6 +15659,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Netherlands,NLD,NL,17231017.0,0,0
 2020-01-01,Netherlands,NLD,NL,17231017.0,0,0
 2019-12-31,Netherlands,NLD,NL,17231017.0,0,0
+2020-06-16,New_Caledonia,NCL,NC,284060.0,0,0
 2020-06-15,New_Caledonia,NCL,NC,284060.0,0,0
 2020-06-14,New_Caledonia,NCL,NC,284060.0,0,0
 2020-06-13,New_Caledonia,NCL,NC,284060.0,0,0
@@ -15609,6 +15747,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,New_Caledonia,NCL,NC,284060.0,1,0
 2020-03-22,New_Caledonia,NCL,NC,284060.0,2,0
 2020-03-21,New_Caledonia,NCL,NC,284060.0,2,0
+2020-06-16,New_Zealand,NZL,NZ,4885500.0,2,0
 2020-06-15,New_Zealand,NZL,NZ,4885500.0,0,0
 2020-06-14,New_Zealand,NZL,NZ,4885500.0,0,0
 2020-06-13,New_Zealand,NZL,NZ,4885500.0,0,0
@@ -15768,6 +15907,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,New_Zealand,NZL,NZ,4885500.0,0,0
 2020-01-01,New_Zealand,NZL,NZ,4885500.0,0,0
 2019-12-31,New_Zealand,NZL,NZ,4885500.0,0,0
+2020-06-16,Nicaragua,NIC,NI,6465513.0,0,0
 2020-06-15,Nicaragua,NIC,NI,6465513.0,0,0
 2020-06-14,Nicaragua,NIC,NI,6465513.0,0,0
 2020-06-13,Nicaragua,NIC,NI,6465513.0,191,0
@@ -15857,6 +15997,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,Nicaragua,NIC,NI,6465513.0,1,0
 2020-03-20,Nicaragua,NIC,NI,6465513.0,0,0
 2020-03-19,Nicaragua,NIC,NI,6465513.0,1,0
+2020-06-16,Niger,NER,NE,22442948.0,0,0
 2020-06-15,Niger,NER,NE,22442948.0,0,0
 2020-06-14,Niger,NER,NE,22442948.0,2,1
 2020-06-13,Niger,NER,NE,22442948.0,4,0
@@ -15944,6 +16085,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,Niger,NER,NE,22442948.0,0,0
 2020-03-22,Niger,NER,NE,22442948.0,0,0
 2020-03-21,Niger,NER,NE,22442948.0,1,0
+2020-06-16,Nigeria,NGA,NG,195874740.0,573,4
 2020-06-15,Nigeria,NGA,NG,195874740.0,403,13
 2020-06-14,Nigeria,NGA,NG,195874740.0,501,8
 2020-06-13,Nigeria,NGA,NG,195874740.0,627,12
@@ -16101,6 +16243,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Nigeria,NGA,NG,195874740.0,0,0
 2020-01-01,Nigeria,NGA,NG,195874740.0,0,0
 2019-12-31,Nigeria,NGA,NG,195874740.0,0,0
+2020-06-16,North_Macedonia,MKD,MK,2082958.0,100,5
 2020-06-15,North_Macedonia,MKD,MK,2082958.0,155,9
 2020-06-14,North_Macedonia,MKD,MK,2082958.0,196,8
 2020-06-13,North_Macedonia,MKD,MK,2082958.0,164,2
@@ -16260,6 +16403,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,North_Macedonia,MKD,MK,2082958.0,0,0
 2020-01-01,North_Macedonia,MKD,MK,2082958.0,0,0
 2019-12-31,North_Macedonia,MKD,MK,2082958.0,0,0
+2020-06-16,Northern_Mariana_Islands,MNP,MP,56882.0,0,0
 2020-06-15,Northern_Mariana_Islands,MNP,MP,56882.0,0,0
 2020-06-14,Northern_Mariana_Islands,MNP,MP,56882.0,0,0
 2020-06-13,Northern_Mariana_Islands,MNP,MP,56882.0,0,0
@@ -16337,6 +16481,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-02,Northern_Mariana_Islands,MNP,MP,56882.0,0,1
 2020-04-01,Northern_Mariana_Islands,MNP,MP,56882.0,4,0
 2020-03-31,Northern_Mariana_Islands,MNP,MP,56882.0,2,0
+2020-06-16,Norway,NOR,NO,5314336.0,25,0
 2020-06-15,Norway,NOR,NO,5314336.0,0,0
 2020-06-14,Norway,NOR,NO,5314336.0,0,0
 2020-06-13,Norway,NOR,NO,5314336.0,12,0
@@ -16505,6 +16650,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Norway,NOR,NO,5314336.0,0,0
 2020-01-01,Norway,NOR,NO,5314336.0,0,0
 2019-12-31,Norway,NOR,NO,5314336.0,0,0
+2020-06-16,Oman,OMN,OM,4829483.0,1043,4
 2020-06-15,Oman,OMN,OM,4829483.0,1404,5
 2020-06-14,Oman,OMN,OM,4829483.0,1006,3
 2020-06-13,Oman,OMN,OM,4829483.0,1117,7
@@ -16667,6 +16813,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Oman,OMN,OM,4829483.0,0,0
 2020-01-01,Oman,OMN,OM,4829483.0,0,0
 2019-12-31,Oman,OMN,OM,4829483.0,0,0
+2020-06-16,Pakistan,PAK,PK,212215030.0,4443,110
 2020-06-15,Pakistan,PAK,PK,212215030.0,5248,97
 2020-06-14,Pakistan,PAK,PK,212215030.0,6825,81
 2020-06-13,Pakistan,PAK,PK,212215030.0,6472,88
@@ -16830,6 +16977,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Pakistan,PAK,PK,212215030.0,0,0
 2020-01-01,Pakistan,PAK,PK,212215030.0,0,0
 2019-12-31,Pakistan,PAK,PK,212215030.0,0,0
+2020-06-16,Palestine,PSE,PS,4569087.0,13,0
 2020-06-15,Palestine,PSE,PS,4569087.0,0,0
 2020-06-14,Palestine,PSE,PS,4569087.0,4,0
 2020-06-13,Palestine,PSE,PS,4569087.0,2,0
@@ -16929,6 +17077,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-08,Palestine,PSE,PS,4569087.0,3,0
 2020-03-07,Palestine,PSE,PS,4569087.0,9,0
 2020-03-06,Palestine,PSE,PS,4569087.0,7,0
+2020-06-16,Panama,PAN,PA,4176873.0,736,11
 2020-06-15,Panama,PAN,PA,4176873.0,627,8
 2020-06-14,Panama,PAN,PA,4176873.0,848,8
 2020-06-13,Panama,PAN,PA,4176873.0,625,3
@@ -17027,6 +17176,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Panama,PAN,PA,4176873.0,7,0
 2020-03-11,Panama,PAN,PA,4176873.0,6,1
 2020-03-10,Panama,PAN,PA,4176873.0,1,0
+2020-06-16,Papua_New_Guinea,PNG,PG,8606316.0,0,0
 2020-06-15,Papua_New_Guinea,PNG,PG,8606316.0,0,0
 2020-06-14,Papua_New_Guinea,PNG,PG,8606316.0,0,0
 2020-06-13,Papua_New_Guinea,PNG,PG,8606316.0,0,0
@@ -17114,6 +17264,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-23,Papua_New_Guinea,PNG,PG,8606316.0,0,0
 2020-03-22,Papua_New_Guinea,PNG,PG,8606316.0,0,0
 2020-03-21,Papua_New_Guinea,PNG,PG,8606316.0,1,0
+2020-06-16,Paraguay,PRY,PY,6956071.0,0,1
 2020-06-15,Paraguay,PRY,PY,6956071.0,28,0
 2020-06-14,Paraguay,PRY,PY,6956071.0,7,0
 2020-06-13,Paraguay,PRY,PY,6956071.0,24,0
@@ -17210,6 +17361,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-13,Paraguay,PRY,PY,6956071.0,1,0
 2020-03-11,Paraguay,PRY,PY,6956071.0,4,0
 2020-03-08,Paraguay,PRY,PY,6956071.0,1,0
+2020-06-16,Peru,PER,PE,31989256.0,3256,172
 2020-06-15,Peru,PER,PE,31989256.0,4604,190
 2020-06-14,Peru,PER,PE,31989256.0,4383,190
 2020-06-13,Peru,PER,PE,31989256.0,5961,199
@@ -17310,6 +17462,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-10,Peru,PER,PE,31989256.0,2,0
 2020-03-09,Peru,PER,PE,31989256.0,6,0
 2020-03-07,Peru,PER,PE,31989256.0,1,0
+2020-06-16,Philippines,PHL,PH,106651922.0,490,10
 2020-06-15,Philippines,PHL,PH,106651922.0,538,14
 2020-06-14,Philippines,PHL,PH,106651922.0,605,22
 2020-06-13,Philippines,PHL,PH,106651922.0,612,16
@@ -17474,6 +17627,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Philippines,PHL,PH,106651922.0,0,0
 2020-01-01,Philippines,PHL,PH,106651922.0,0,0
 2019-12-31,Philippines,PHL,PH,106651922.0,0,0
+2020-06-16,Poland,POL,PL,37978548.0,396,9
 2020-06-15,Poland,POL,PL,37978548.0,375,10
 2020-06-14,Poland,POL,PL,37978548.0,440,15
 2020-06-13,Poland,POL,PL,37978548.0,376,7
@@ -17576,6 +17730,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-08,Poland,POL,PL,37978548.0,1,0
 2020-03-07,Poland,POL,PL,37978548.0,4,0
 2020-03-04,Poland,POL,PL,37978548.0,1,0
+2020-06-16,Portugal,PRT,PT,10281762.0,346,3
 2020-06-15,Portugal,PRT,PT,10281762.0,227,5
 2020-06-14,Portugal,PRT,PT,10281762.0,283,7
 2020-06-13,Portugal,PRT,PT,10281762.0,270,1
@@ -17681,6 +17836,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-05,Portugal,PRT,PT,10281762.0,1,0
 2020-03-04,Portugal,PRT,PT,10281762.0,2,0
 2020-03-03,Portugal,PRT,PT,10281762.0,2,0
+2020-06-16,Puerto_Rico,PRI,PR,3195153.0,79,0
 2020-06-15,Puerto_Rico,PRI,PR,3195153.0,121,1
 2020-06-14,Puerto_Rico,PRI,PR,3195153.0,154,0
 2020-06-13,Puerto_Rico,PRI,PR,3195153.0,184,2
@@ -17761,6 +17917,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-30,Puerto_Rico,PRI,PR,3195153.0,27,2
 2020-03-29,Puerto_Rico,PRI,PR,3195153.0,36,1
 2020-03-28,Puerto_Rico,PRI,PR,3195153.0,64,2
+2020-06-16,Qatar,QAT,QA,2781677.0,1274,3
 2020-06-15,Qatar,QAT,QA,2781677.0,1186,3
 2020-06-14,Qatar,QAT,QA,2781677.0,1828,0
 2020-06-13,Qatar,QAT,QA,2781677.0,1517,1
@@ -17925,6 +18082,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Qatar,QAT,QA,2781677.0,0,0
 2020-01-01,Qatar,QAT,QA,2781677.0,0,0
 2019-12-31,Qatar,QAT,QA,2781677.0,0,0
+2020-06-16,Romania,ROU,RO,19473936.0,166,17
 2020-06-15,Romania,ROU,RO,19473936.0,320,19
 2020-06-14,Romania,ROU,RO,19473936.0,275,11
 2020-06-13,Romania,ROU,RO,19473936.0,222,11
@@ -18091,6 +18249,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Romania,ROU,RO,19473936.0,0,0
 2020-01-01,Romania,ROU,RO,19473936.0,0,0
 2019-12-31,Romania,ROU,RO,19473936.0,0,0
+2020-06-16,Russia,RUS,RU,144478050.0,8246,143
 2020-06-15,Russia,RUS,RU,144478050.0,8835,119
 2020-06-14,Russia,RUS,RU,144478050.0,8706,114
 2020-06-13,Russia,RUS,RU,144478050.0,8987,183
@@ -18259,6 +18418,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Russia,RUS,RU,144478050.0,0,0
 2020-01-01,Russia,RUS,RU,144478050.0,0,0
 2019-12-31,Russia,RUS,RU,144478050.0,0,0
+2020-06-16,Rwanda,RWA,RW,12301939.0,30,0
 2020-06-15,Rwanda,RWA,RW,12301939.0,41,0
 2020-06-14,Rwanda,RWA,RW,12301939.0,31,0
 2020-06-13,Rwanda,RWA,RW,12301939.0,16,0
@@ -18352,6 +18512,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Rwanda,RWA,RW,12301939.0,0,0
 2020-03-16,Rwanda,RWA,RW,12301939.0,4,0
 2020-03-15,Rwanda,RWA,RW,12301939.0,1,0
+2020-06-16,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-06-15,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-06-14,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-06-13,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
@@ -18434,6 +18595,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-28,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-03-27,Saint_Kitts_and_Nevis,KNA,KN,52441.0,0,0
 2020-03-26,Saint_Kitts_and_Nevis,KNA,KN,52441.0,2,0
+2020-06-16,Saint_Lucia,LCA,LC,181889.0,0,0
 2020-06-15,Saint_Lucia,LCA,LC,181889.0,0,0
 2020-06-14,Saint_Lucia,LCA,LC,181889.0,0,0
 2020-06-13,Saint_Lucia,LCA,LC,181889.0,0,0
@@ -18527,6 +18689,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Saint_Lucia,LCA,LC,181889.0,0,0
 2020-03-16,Saint_Lucia,LCA,LC,181889.0,0,0
 2020-03-15,Saint_Lucia,LCA,LC,181889.0,2,0
+2020-06-16,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-06-15,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-06-14,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-06-13,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
@@ -18611,6 +18774,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-26,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-03-25,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,0,0
 2020-03-13,Saint_Vincent_and_the_Grenadines,VCT,VC,110210.0,1,0
+2020-06-16,San_Marino,SMR,SM,33785.0,0,0
 2020-06-15,San_Marino,SMR,SM,33785.0,0,0
 2020-06-14,San_Marino,SMR,SM,33785.0,0,0
 2020-06-13,San_Marino,SMR,SM,33785.0,3,0
@@ -18778,6 +18942,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,San_Marino,SMR,SM,33785.0,0,0
 2020-01-01,San_Marino,SMR,SM,33785.0,0,0
 2019-12-31,San_Marino,SMR,SM,33785.0,0,0
+2020-06-16,Sao_Tome_and_Principe,STP,ST,211028.0,0,0
 2020-06-15,Sao_Tome_and_Principe,STP,ST,211028.0,2,0
 2020-06-14,Sao_Tome_and_Principe,STP,ST,211028.0,9,0
 2020-06-13,Sao_Tome_and_Principe,STP,ST,211028.0,11,0
@@ -18846,6 +19011,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-11,Sao_Tome_and_Principe,STP,ST,211028.0,0,0
 2020-04-10,Sao_Tome_and_Principe,STP,ST,211028.0,0,0
 2020-04-09,Sao_Tome_and_Principe,STP,ST,211028.0,4,0
+2020-06-16,Saudi_Arabia,SAU,SA,33699947.0,4507,39
 2020-06-15,Saudi_Arabia,SAU,SA,33699947.0,4233,40
 2020-06-14,Saudi_Arabia,SAU,SA,33699947.0,3366,39
 2020-06-13,Saudi_Arabia,SAU,SA,33699947.0,3921,36
@@ -18948,6 +19114,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-08,Saudi_Arabia,SAU,SA,33699947.0,2,0
 2020-03-06,Saudi_Arabia,SAU,SA,33699947.0,4,0
 2020-03-03,Saudi_Arabia,SAU,SA,33699947.0,1,0
+2020-06-16,Senegal,SEN,SN,15854360.0,83,4
 2020-06-15,Senegal,SEN,SN,15854360.0,94,0
 2020-06-14,Senegal,SEN,SN,15854360.0,145,4
 2020-06-13,Senegal,SEN,SN,15854360.0,92,0
@@ -19046,6 +19213,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-06,Senegal,SEN,SN,15854360.0,1,0
 2020-03-05,Senegal,SEN,SN,15854360.0,2,0
 2020-03-03,Senegal,SEN,SN,15854360.0,1,0
+2020-06-16,Serbia,SRB,RS,6982084.0,57,1
 2020-06-15,Serbia,SRB,RS,6982084.0,59,1
 2020-06-14,Serbia,SRB,RS,6982084.0,76,1
 2020-06-13,Serbia,SRB,RS,6982084.0,73,0
@@ -19144,6 +19312,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-12,Serbia,SRB,RS,6982084.0,13,0
 2020-03-11,Serbia,SRB,RS,6982084.0,4,0
 2020-03-07,Serbia,SRB,RS,6982084.0,1,0
+2020-06-16,Seychelles,SYC,SC,96762.0,0,0
 2020-06-15,Seychelles,SYC,SC,96762.0,0,0
 2020-06-14,Seychelles,SYC,SC,96762.0,0,0
 2020-06-13,Seychelles,SYC,SC,96762.0,0,0
@@ -19237,6 +19406,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Seychelles,SYC,SC,96762.0,1,0
 2020-03-16,Seychelles,SYC,SC,96762.0,1,0
 2020-03-15,Seychelles,SYC,SC,96762.0,2,0
+2020-06-16,Sierra_Leone,SLE,SL,7650154.0,7,0
 2020-06-15,Sierra_Leone,SLE,SL,7650154.0,37,0
 2020-06-14,Sierra_Leone,SLE,SL,7650154.0,29,0
 2020-06-13,Sierra_Leone,SLE,SL,7650154.0,18,1
@@ -19313,6 +19483,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-03,Sierra_Leone,SLE,SL,7650154.0,1,0
 2020-04-02,Sierra_Leone,SLE,SL,7650154.0,0,0
 2020-04-01,Sierra_Leone,SLE,SL,7650154.0,1,0
+2020-06-16,Singapore,SGP,SG,5638676.0,214,0
 2020-06-15,Singapore,SGP,SG,5638676.0,407,0
 2020-06-14,Singapore,SGP,SG,5638676.0,347,1
 2020-06-13,Singapore,SGP,SG,5638676.0,463,0
@@ -19481,6 +19652,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Singapore,SGP,SG,5638676.0,0,0
 2020-01-01,Singapore,SGP,SG,5638676.0,0,0
 2019-12-31,Singapore,SGP,SG,5638676.0,0,0
+2020-06-16,Sint_Maarten,SXM,SX,41486.0,0,0
 2020-06-15,Sint_Maarten,SXM,SX,41486.0,0,0
 2020-06-14,Sint_Maarten,SXM,SX,41486.0,0,0
 2020-06-13,Sint_Maarten,SXM,SX,41486.0,0,0
@@ -19563,6 +19735,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-27,Sint_Maarten,SXM,SX,41486.0,0,0
 2020-03-26,Sint_Maarten,SXM,SX,41486.0,1,0
 2020-03-03,Sint_Maarten,SXM,SX,41486.0,1,0
+2020-06-16,Slovakia,SVK,SK,5447011.0,4,0
 2020-06-15,Slovakia,SVK,SK,5447011.0,3,0
 2020-06-14,Slovakia,SVK,SK,5447011.0,3,0
 2020-06-13,Slovakia,SVK,SK,5447011.0,1,0
@@ -19663,6 +19836,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-09,Slovakia,SVK,SK,5447011.0,2,0
 2020-03-08,Slovakia,SVK,SK,5447011.0,2,0
 2020-03-07,Slovakia,SVK,SK,5447011.0,1,0
+2020-06-16,Slovenia,SVN,SI,2067372.0,1,0
 2020-06-15,Slovenia,SVN,SI,2067372.0,3,0
 2020-06-14,Slovenia,SVN,SI,2067372.0,2,0
 2020-06-13,Slovenia,SVN,SI,2067372.0,2,0
@@ -19765,6 +19939,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-07,Slovenia,SVN,SI,2067372.0,3,0
 2020-03-06,Slovenia,SVN,SI,2067372.0,5,0
 2020-03-05,Slovenia,SVN,SI,2067372.0,1,0
+2020-06-16,Somalia,SOM,SO,15008154.0,39,0
 2020-06-15,Somalia,SOM,SO,15008154.0,24,1
 2020-06-14,Somalia,SOM,SO,15008154.0,66,2
 2020-06-13,Somalia,SOM,SO,15008154.0,0,0
@@ -19856,6 +20031,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-19,Somalia,SOM,SO,15008154.0,0,0
 2020-03-18,Somalia,SOM,SO,15008154.0,0,0
 2020-03-17,Somalia,SOM,SO,15008154.0,1,0
+2020-06-16,South_Africa,ZAF,ZA,57779622.0,3495,88
 2020-06-15,South_Africa,ZAF,ZA,57779622.0,4302,57
 2020-06-14,South_Africa,ZAF,ZA,57779622.0,3809,69
 2020-06-13,South_Africa,ZAF,ZA,57779622.0,3359,65
@@ -19956,6 +20132,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-09,South_Africa,ZAF,ZA,57779622.0,1,0
 2020-03-08,South_Africa,ZAF,ZA,57779622.0,1,0
 2020-03-06,South_Africa,ZAF,ZA,57779622.0,1,0
+2020-06-16,South_Korea,KOR,KR,51635256.0,34,1
 2020-06-15,South_Korea,KOR,KR,51635256.0,37,0
 2020-06-14,South_Korea,KOR,KR,51635256.0,33,0
 2020-06-13,South_Korea,KOR,KR,51635256.0,48,0
@@ -20124,6 +20301,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,South_Korea,KOR,KR,51635256.0,0,0
 2020-01-01,South_Korea,KOR,KR,51635256.0,0,0
 2019-12-31,South_Korea,KOR,KR,51635256.0,0,0
+2020-06-16,South_Sudan,SSD,SS,10975920.0,62,3
 2020-06-15,South_Sudan,SSD,SS,10975920.0,0,0
 2020-06-14,South_Sudan,SSD,SS,10975920.0,23,5
 2020-06-13,South_Sudan,SSD,SS,10975920.0,66,3
@@ -20195,6 +20373,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-08,South_Sudan,SSD,SS,10975920.0,0,0
 2020-04-07,South_Sudan,SSD,SS,10975920.0,0,0
 2020-04-06,South_Sudan,SSD,SS,10975920.0,1,0
+2020-06-15,Spain,ESP,ES,46723749.0,181,0
 2020-06-14,Spain,ESP,ES,46723749.0,323,0
 2020-06-13,Spain,ESP,ES,46723749.0,396,0
 2020-06-12,Spain,ESP,ES,46723749.0,502,0
@@ -20362,6 +20541,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Spain,ESP,ES,46723749.0,0,0
 2020-01-01,Spain,ESP,ES,46723749.0,0,0
 2019-12-31,Spain,ESP,ES,46723749.0,0,0
+2020-06-16,Sri_Lanka,LKA,LK,21670000.0,16,0
 2020-06-15,Sri_Lanka,LKA,LK,21670000.0,5,0
 2020-06-14,Sri_Lanka,LKA,LK,21670000.0,4,0
 2020-06-13,Sri_Lanka,LKA,LK,21670000.0,3,0
@@ -20521,6 +20701,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Sri_Lanka,LKA,LK,21670000.0,0,0
 2020-01-01,Sri_Lanka,LKA,LK,21670000.0,0,0
 2019-12-31,Sri_Lanka,LKA,LK,21670000.0,0,0
+2020-06-16,Sudan,SDN,SD,41801533.0,0,0
 2020-06-15,Sudan,SDN,SD,41801533.0,341,26
 2020-06-14,Sudan,SDN,SD,41801533.0,0,0
 2020-06-13,Sudan,SDN,SD,41801533.0,149,20
@@ -20615,6 +20796,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Sudan,SDN,SD,41801533.0,0,0
 2020-03-15,Sudan,SDN,SD,41801533.0,0,1
 2020-03-14,Sudan,SDN,SD,41801533.0,1,0
+2020-06-16,Suriname,SUR,SR,575991.0,21,2
 2020-06-15,Suriname,SUR,SR,575991.0,12,0
 2020-06-14,Suriname,SUR,SR,575991.0,9,0
 2020-06-13,Suriname,SUR,SR,575991.0,19,1
@@ -20703,6 +20885,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-22,Suriname,SUR,SR,575991.0,4,0
 2020-03-21,Suriname,SUR,SR,575991.0,0,0
 2020-03-15,Suriname,SUR,SR,575991.0,1,0
+2020-06-16,Sweden,SWE,SE,10183175.0,769,17
 2020-06-15,Sweden,SWE,SE,10183175.0,683,0
 2020-06-14,Sweden,SWE,SE,10183175.0,1247,20
 2020-06-13,Sweden,SWE,SE,10183175.0,1396,40
@@ -20871,6 +21054,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Sweden,SWE,SE,10183175.0,0,0
 2020-01-01,Sweden,SWE,SE,10183175.0,0,0
 2019-12-31,Sweden,SWE,SE,10183175.0,0,0
+2020-06-16,Switzerland,CHE,CH,8516543.0,14,0
 2020-06-15,Switzerland,CHE,CH,8516543.0,23,0
 2020-06-14,Switzerland,CHE,CH,8516543.0,31,0
 2020-06-13,Switzerland,CHE,CH,8516543.0,19,2
@@ -21039,6 +21223,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Switzerland,CHE,CH,8516543.0,0,0
 2020-01-01,Switzerland,CHE,CH,8516543.0,0,0
 2019-12-31,Switzerland,CHE,CH,8516543.0,0,0
+2020-06-16,Syria,SYR,SY,16906283.0,0,0
 2020-06-15,Syria,SYR,SY,16906283.0,7,0
 2020-06-14,Syria,SYR,SY,16906283.0,6,0
 2020-06-13,Syria,SYR,SY,16906283.0,0,0
@@ -21124,6 +21309,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-25,Syria,SYR,SY,16906283.0,0,0
 2020-03-24,Syria,SYR,SY,16906283.0,0,0
 2020-03-23,Syria,SYR,SY,16906283.0,1,0
+2020-06-16,Taiwan,TWN,TW,23780452.0,2,0
 2020-06-15,Taiwan,TWN,TW,23780452.0,0,0
 2020-06-14,Taiwan,TWN,TW,23780452.0,0,0
 2020-06-13,Taiwan,TWN,TW,23780452.0,0,0
@@ -21290,6 +21476,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Taiwan,TWN,TW,23780452.0,0,0
 2020-01-01,Taiwan,TWN,TW,23780452.0,0,0
 2019-12-31,Taiwan,TWN,TW,23780452.0,0,0
+2020-06-16,Tajikistan,TJK,TJ,9100837.0,62,0
 2020-06-15,Tajikistan,TJK,TJ,9100837.0,64,0
 2020-06-14,Tajikistan,TJK,TJ,9100837.0,69,1
 2020-06-13,Tajikistan,TJK,TJ,9100837.0,68,0
@@ -21336,6 +21523,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-05-03,Tajikistan,TJK,TJ,9100837.0,17,0
 2020-05-02,Tajikistan,TJK,TJ,9100837.0,0,0
 2020-05-01,Tajikistan,TJK,TJ,9100837.0,15,0
+2020-06-16,Thailand,THA,TH,69428524.0,0,0
 2020-06-15,Thailand,THA,TH,69428524.0,1,0
 2020-06-14,Thailand,THA,TH,69428524.0,5,0
 2020-06-13,Thailand,THA,TH,69428524.0,4,0
@@ -21497,6 +21685,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Thailand,THA,TH,69428524.0,0,0
 2020-01-01,Thailand,THA,TH,69428524.0,0,0
 2019-12-31,Thailand,THA,TH,69428524.0,0,0
+2020-06-16,Timor_Leste,TLS,TL,1267972.0,0,0
 2020-06-15,Timor_Leste,TLS,TL,1267972.0,0,0
 2020-06-14,Timor_Leste,TLS,TL,1267972.0,0,0
 2020-06-13,Timor_Leste,TLS,TL,1267972.0,0,0
@@ -21583,6 +21772,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Timor_Leste,TLS,TL,1267972.0,0,0
 2020-03-23,Timor_Leste,TLS,TL,1267972.0,0,0
 2020-03-22,Timor_Leste,TLS,TL,1267972.0,1,0
+2020-06-16,Togo,TGO,TG,7889094.0,1,0
 2020-06-15,Togo,TGO,TG,7889094.0,1,0
 2020-06-14,Togo,TGO,TG,7889094.0,5,0
 2020-06-13,Togo,TGO,TG,7889094.0,1,0
@@ -21677,6 +21867,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Togo,TGO,TG,7889094.0,0,0
 2020-03-15,Togo,TGO,TG,7889094.0,0,0
 2020-03-07,Togo,TGO,TG,7889094.0,1,0
+2020-06-16,Trinidad_and_Tobago,TTO,TT,1389858.0,0,0
 2020-06-15,Trinidad_and_Tobago,TTO,TT,1389858.0,6,0
 2020-06-14,Trinidad_and_Tobago,TTO,TT,1389858.0,0,0
 2020-06-13,Trinidad_and_Tobago,TTO,TT,1389858.0,0,0
@@ -21772,6 +21963,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-15,Trinidad_and_Tobago,TTO,TT,1389858.0,0,0
 2020-03-14,Trinidad_and_Tobago,TTO,TT,1389858.0,1,0
 2020-03-13,Trinidad_and_Tobago,TTO,TT,1389858.0,1,0
+2020-06-16,Tunisia,TUN,TN,11565204.0,14,0
 2020-06-15,Tunisia,TUN,TN,11565204.0,2,0
 2020-06-14,Tunisia,TUN,TN,11565204.0,1,0
 2020-06-13,Tunisia,TUN,TN,11565204.0,6,0
@@ -21871,6 +22063,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-11,Tunisia,TUN,TN,11565204.0,3,0
 2020-03-10,Tunisia,TUN,TN,11565204.0,1,0
 2020-03-03,Tunisia,TUN,TN,11565204.0,1,0
+2020-06-16,Turkey,TUR,TR,82319724.0,1592,18
 2020-06-15,Turkey,TUR,TR,82319724.0,1562,15
 2020-06-14,Turkey,TUR,TR,82319724.0,1459,14
 2020-06-13,Turkey,TUR,TR,82319724.0,1195,15
@@ -21965,6 +22158,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Turkey,TUR,TR,82319724.0,16,0
 2020-03-13,Turkey,TUR,TR,82319724.0,1,0
 2020-03-12,Turkey,TUR,TR,82319724.0,1,0
+2020-06-16,Turks_and_Caicos_islands,TCA,TC,31458.0,0,0
 2020-06-15,Turks_and_Caicos_islands,TCA,TC,31458.0,0,0
 2020-06-14,Turks_and_Caicos_islands,TCA,TC,31458.0,0,0
 2020-06-13,Turks_and_Caicos_islands,TCA,TC,31458.0,0,0
@@ -22048,6 +22242,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-27,Turks_and_Caicos_islands,TCA,TC,31458.0,1,0
 2020-03-26,Turks_and_Caicos_islands,TCA,TC,31458.0,0,0
 2020-03-25,Turks_and_Caicos_islands,TCA,TC,31458.0,1,0
+2020-06-16,Uganda,UGA,UG,42723139.0,9,0
 2020-06-15,Uganda,UGA,UG,42723139.0,11,0
 2020-06-14,Uganda,UGA,UG,42723139.0,0,0
 2020-06-13,Uganda,UGA,UG,42723139.0,6,0
@@ -22134,6 +22329,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-24,Uganda,UGA,UG,42723139.0,8,0
 2020-03-23,Uganda,UGA,UG,42723139.0,0,0
 2020-03-22,Uganda,UGA,UG,42723139.0,1,0
+2020-06-16,Ukraine,UKR,UA,44622516.0,656,12
 2020-06-15,Ukraine,UKR,UA,44622516.0,648,9
 2020-06-14,Ukraine,UKR,UA,44622516.0,753,10
 2020-06-13,Ukraine,UKR,UA,44622516.0,683,16
@@ -22228,6 +22424,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-16,Ukraine,UKR,UA,44622516.0,0,0
 2020-03-13,Ukraine,UKR,UA,44622516.0,2,0
 2020-03-04,Ukraine,UKR,UA,44622516.0,1,0
+2020-06-16,United_Arab_Emirates,ARE,AE,9630959.0,342,2
 2020-06-15,United_Arab_Emirates,ARE,AE,9630959.0,394,1
 2020-06-14,United_Arab_Emirates,ARE,AE,9630959.0,401,1
 2020-06-13,United_Arab_Emirates,ARE,AE,9630959.0,513,1
@@ -22390,6 +22587,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,United_Arab_Emirates,ARE,AE,9630959.0,0,0
 2020-01-01,United_Arab_Emirates,ARE,AE,9630959.0,0,0
 2019-12-31,United_Arab_Emirates,ARE,AE,9630959.0,0,0
+2020-06-16,United_Kingdom,GBR,UK,66488991.0,968,38
 2020-06-15,United_Kingdom,GBR,UK,66488991.0,1514,36
 2020-06-14,United_Kingdom,GBR,UK,66488991.0,1425,181
 2020-06-13,United_Kingdom,GBR,UK,66488991.0,1541,202
@@ -22558,6 +22756,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,United_Kingdom,GBR,UK,66488991.0,0,0
 2020-01-01,United_Kingdom,GBR,UK,66488991.0,0,0
 2019-12-31,United_Kingdom,GBR,UK,66488991.0,0,0
+2020-06-16,United_Republic_of_Tanzania,TZA,TZ,56318348.0,0,0
 2020-06-15,United_Republic_of_Tanzania,TZA,TZ,56318348.0,0,0
 2020-06-14,United_Republic_of_Tanzania,TZA,TZ,56318348.0,0,0
 2020-06-13,United_Republic_of_Tanzania,TZA,TZ,56318348.0,0,0
@@ -22649,6 +22848,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-19,United_Republic_of_Tanzania,TZA,TZ,56318348.0,2,0
 2020-03-18,United_Republic_of_Tanzania,TZA,TZ,56318348.0,0,0
 2020-03-17,United_Republic_of_Tanzania,TZA,TZ,56318348.0,1,0
+2020-06-16,United_States_of_America,USA,US,327167434.0,19957,395
 2020-06-15,United_States_of_America,USA,US,327167434.0,19543,296
 2020-06-14,United_States_of_America,USA,US,327167434.0,25540,767
 2020-06-13,United_States_of_America,USA,US,327167434.0,25639,849
@@ -22817,6 +23017,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,United_States_of_America,USA,US,327167434.0,0,0
 2020-01-01,United_States_of_America,USA,US,327167434.0,0,0
 2019-12-31,United_States_of_America,USA,US,327167434.0,0,0
+2020-06-16,United_States_Virgin_Islands,VIR,VI,106977.0,0,0
 2020-06-15,United_States_Virgin_Islands,VIR,VI,106977.0,1,0
 2020-06-14,United_States_Virgin_Islands,VIR,VI,106977.0,0,0
 2020-06-13,United_States_Virgin_Islands,VIR,VI,106977.0,0,0
@@ -22900,6 +23101,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-26,United_States_Virgin_Islands,VIR,VI,106977.0,0,0
 2020-03-25,United_States_Virgin_Islands,VIR,VI,106977.0,0,0
 2020-03-24,United_States_Virgin_Islands,VIR,VI,106977.0,17,0
+2020-06-16,Uruguay,URY,UY,3449299.0,0,0
 2020-06-15,Uruguay,URY,UY,3449299.0,1,0
 2020-06-14,Uruguay,URY,UY,3449299.0,0,0
 2020-06-13,Uruguay,URY,UY,3449299.0,0,0
@@ -22993,6 +23195,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Uruguay,URY,UY,3449299.0,21,0
 2020-03-16,Uruguay,URY,UY,3449299.0,2,0
 2020-03-15,Uruguay,URY,UY,3449299.0,6,0
+2020-06-16,Uzbekistan,UZB,UZ,32955400.0,190,0
 2020-06-15,Uzbekistan,UZB,UZ,32955400.0,109,0
 2020-06-14,Uzbekistan,UZB,UZ,32955400.0,93,0
 2020-06-13,Uzbekistan,UZB,UZ,32955400.0,82,0
@@ -23085,6 +23288,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-18,Uzbekistan,UZB,UZ,32955400.0,8,0
 2020-03-17,Uzbekistan,UZB,UZ,32955400.0,2,0
 2020-03-16,Uzbekistan,UZB,UZ,32955400.0,6,0
+2020-06-16,Venezuela,VEN,VE,28870195.0,84,1
 2020-06-15,Venezuela,VEN,VE,28870195.0,74,1
 2020-06-14,Venezuela,VEN,VE,28870195.0,25,1
 2020-06-13,Venezuela,VEN,VE,28870195.0,65,0
@@ -23178,6 +23382,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-17,Venezuela,VEN,VE,28870195.0,18,0
 2020-03-16,Venezuela,VEN,VE,28870195.0,5,0
 2020-03-15,Venezuela,VEN,VE,28870195.0,10,0
+2020-06-16,Vietnam,VNM,VN,95540395.0,0,0
 2020-06-15,Vietnam,VNM,VN,95540395.0,0,0
 2020-06-14,Vietnam,VNM,VN,95540395.0,1,0
 2020-06-13,Vietnam,VNM,VN,95540395.0,1,0
@@ -23342,6 +23547,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-01-02,Vietnam,VNM,VN,95540395.0,0,0
 2020-01-01,Vietnam,VNM,VN,95540395.0,0,0
 2019-12-31,Vietnam,VNM,VN,95540395.0,0,0
+2020-06-16,Western_Sahara,,EH,,0,0
 2020-06-15,Western_Sahara,,EH,,0,0
 2020-06-14,Western_Sahara,,EH,,0,0
 2020-06-13,Western_Sahara,,EH,,0,0
@@ -23393,6 +23599,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-28,Western_Sahara,,EH,,0,0
 2020-04-27,Western_Sahara,,EH,,0,0
 2020-04-26,Western_Sahara,,EH,,6,0
+2020-06-16,Yemen,YEM,YE,28498687.0,116,44
 2020-06-15,Yemen,YEM,YE,28498687.0,23,4
 2020-06-14,Yemen,YEM,YE,28498687.0,73,21
 2020-06-13,Yemen,YEM,YE,28498687.0,41,3
@@ -23460,6 +23667,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-04-12,Yemen,YEM,YE,28498687.0,0,0
 2020-04-11,Yemen,YEM,YE,28498687.0,0,0
 2020-04-10,Yemen,YEM,YE,28498687.0,1,0
+2020-06-16,Zambia,ZMB,ZM,17351822.0,24,0
 2020-06-15,Zambia,ZMB,ZM,17351822.0,1,1
 2020-06-14,Zambia,ZMB,ZM,17351822.0,36,0
 2020-06-13,Zambia,ZMB,ZM,17351822.0,69,0
@@ -23549,6 +23757,7 @@ date,authority,alpha_3,alpha_2,population_2018,cases,deaths
 2020-03-21,Zambia,ZMB,ZM,17351822.0,0,0
 2020-03-20,Zambia,ZMB,ZM,17351822.0,0,0
 2020-03-19,Zambia,ZMB,ZM,17351822.0,2,0
+2020-06-16,Zimbabwe,ZWE,ZW,14439018.0,4,0
 2020-06-15,Zimbabwe,ZWE,ZW,14439018.0,27,0
 2020-06-14,Zimbabwe,ZWE,ZW,14439018.0,13,0
 2020-06-13,Zimbabwe,ZWE,ZW,14439018.0,11,0

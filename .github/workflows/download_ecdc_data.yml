@@ -4,8 +4,8 @@ on:
   push:
     paths:
     - 'scripts/download_ecdc.py'
-  schedule:
-    - cron:  '0 1/1 * * *'
+#   schedule:
+#     - cron:  '0 1/1 * * *'
 
 jobs:
   build:
